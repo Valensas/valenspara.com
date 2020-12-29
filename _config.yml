@@ -1,0 +1,67 @@
+
+title: İşte Pay
+description: >- # this means to ignore newlines until "baseurl:"
+  Ödeme Kuruluşu
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+host: 0.0.0.0
+# port: 4000
+
+nav:
+  - text: Our Products
+    link: /products/
+  - text: Enterprise Solutions
+    link: /enterprise-solutions/
+  - text: Projects
+    link: /projects/
+  - text: Contact
+    link: /contact/
+
+
+footer_cta: Size nasıl yardımcı olabiliriz?
+footer_cta_link: mailto:info@istepay.com
+footer_content_1: Lorem
+footer_content_2: Lorem
+footer_navigation_1_title: Güvenlik
+footer_navigation_1:
+    - text: Gizlilik Politikası
+      link: /products/
+    - text: KVKK
+      link: /enterprise-solutions/
+    - text: Güvenlik
+      link: /projects/
+footer_navigation_2_title: Hakkında
+footer_navigation_2:
+    - text: Sıkça Sorulan Sorular
+      link: /contact/
+    - text: Kuruluş
+      link: /contact/
+    - text: Yönetim Kurulu
+      link: /contact/
+    - text: İletişim
+      link: /contact/
+
+collections:
+  projects:
+    output: true
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+
+include: [".well-known"]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
