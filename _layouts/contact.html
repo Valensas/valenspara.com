@@ -14,7 +14,7 @@ layout: default
 <section class="contact container py-3 mb-3">
     <div class="row">
         {% for item in page.contact %}
-        <div class="col-md-4 py-5 pl-5 contact__item">
+        <div class="col-md-6 py-5 pl-5 contact__item">
             <h3 class="mb-4">{{item.title}}</h3>
             <address class="mb-4">
                 {% for line in item.address %}
@@ -22,11 +22,36 @@ layout: default
                 {% endfor %}
             </address>
             <div class="contant__details">
-                <span>P: {{item.phone}}</span><br>
-                <span>F: {{item.fax}}</span><br>
-                <span>M: <a href="mail:{{item.mail}}">{{item.mail}}</a></span>
+                <span>Telefon: {{item.phone}}</span><br>
+                <span>Fax: {{item.fax}}</span><br>
+                <span>E-posta: <a href="mail:{{item.mail}}">{{item.mail}}</a></span>
             </div>
         </div>
         {% endfor %}
+    </div>
+    <div class="row">
+        <div class="col-md-6 py-5 pl-5">
+            <h3 class="mb-4">Ticari Bilgiler</h3>
+            <div class="contant__details">
+                <span>Vergi: {{page.tax}}</span><br>
+                <span>Ticari Sicil Numarası: {{page.identity}}</span><br>
+                <span>Mersis Numarası: {{page.mersis}}</span><br>
+            </div>
+        </div>
+        <div class="col-md-6 py-5 pl-5">
+            <h3 class="mb-4">Yetkili Denetim Organı</h3>
+            <img class="mb-4" src="/img/tcmb-logo.png">
+            <div class="contant__details">
+                <span>{{page.tcmb.title}}</span><br>
+                <span>Telefon: {{page.tcmb.phone}}</span><br>
+                <address class="mb-4">
+                    <span>Adresi:</span>
+                    {% for line in page.tcmb.address %}
+                        <span>{{line.line}}</span><br>
+                    {% endfor %}
+                </address>
+                <span>Web Adresi: <a href="https://{{page.tcmb.website}}" target="_blank">{{page.tcmb.website}}</a></span>
+            </div>
+        </div>
     </div>
 </section>

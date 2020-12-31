@@ -14,14 +14,9 @@ layout: default
             <!-- <img src="/img/{{slide.background}}" > -->
             <div class="container">
               <div class="row">
-                <div class="main-inner col-sm-10 col-md-6 offset-md-0">
-                        <img class="mb-4 app-icon" src="/img/{{slide.icon}}">
+                <div class="main-inner col-sm-10 col-md-6 offset-md-0 my-auto">
                         <h2 class="mb-3">{{slide.title}}</h2>
                         <p class="mb-3">{{slide.content}}</p>
-                        <p><a class="btn btn-valensas" href="{{slide.link_path}}" role="button">{{slide.link_text}}</a></p>
-                </div>
-                <div class="col-sm-10 col-md-6 offset-md-0 ">
-                        <img class="supportimage" src="/img/{{slide.feature}}">
                 </div>
               </div>
             </div>
@@ -35,7 +30,7 @@ layout: default
     <section class="container">
       <div class="row">
           <div class="col-lg-12">
-              <h1 class="section-title text-center mb-4"><span class="highlight-text">{{page.creative_title_highlight}}</span>{{page.creative_title_main}}</h1>
+              <h1 class="section-title text-center mb-4"><span class="highlight-text">{{page.creative_title_highlight}} </span>{{page.creative_title_main}}</h1>
               <p class="section-subtitle text-center mb-4 w-75 mx-auto ">{{page.creative_subtitle}}</p>
           </div>
       </div>
@@ -96,7 +91,7 @@ layout: default
         </div>
       </section>
 
-    <div class="logo-container">
+    <!-- <div class="logo-container">
       <div class="logo-row py-4 mb-2 mb-md-3">
         {% for customer in page.customer_logos %}
         <div class="logo-row__item">
@@ -104,5 +99,5 @@ layout: default
         </div>
         {% endfor %}
       </div>
-    </div>
+    </div> -->
   </div>

@@ -3,67 +3,56 @@ layout: main
 # ----------------   
 # Hero Section
 hero_slider:
-    - title: Yemeksepeti
-      background: yemeksepeti-background.png
-      icon: logo-yemek.png
-      content: Yemeksepeti is an online food ordering sites serving in 64 cities in Turkey
-      link_text: Click for details
-      link_path: /projects/28-yemeksepeti.html
-    - title: Akbank Direkt
-      background: akbank-background.png       
-      icon: akbank-direct-icon.png
-      feature: akbanktv-banner.png
-      content: Akbank Direkt is one of Turkey’s top mobile banking applications allowing all money transactions on the go.    
-      link_text: Click for details
-      link_path: /projects/17-akbank-direkt.html
-    - title: ERGO Sigorta
-      background: ergo-background.png     
-      icon: ergo-appIcon.png
-      feature: ergo-logo1.png       
-      content: With its fast and easy-to-use structure, ERGO'm Mobile provides instant data flow and control over important issues.    
-      link_text: Click for details
-      link_path: /projects/02-ergom-mobil.html
-    - title: Tekfen IK
-      background: tekfen-background.png      
-      icon: tekfen-icon.png
-      feature: akbank-banner copy.png  
-      content: With this application check available job posts and apply, follow up on all developments related to the TEKFEN Construction.    
-      link_text: Click for details        
-      link_path: /projects/12-tekfen.html
+    - title: Hızlı ve Güvenli Ödeme
+      background: background-1.jpg
+      content: Müşterinizden yurt içi tüm kredi ve banka kartlarından hızlıca güvenli ödeme alın.  
+    - title: Kolay İptal ve İade
+      background: background-2.jpg       
+      content: Ödeme servislerini kullanarak 7/24 iptal ve iade işlemlerini gerçekleştirebilirsiniz. İade işlemlerinizi ödeme tutarıyla veya belirleyeceğiniz altında bir tutarla gerçekleştirebilirsiniz.     
+    - title: Uygun Komisyon Garantisi
+      background: background-3.jpg    
+      content: Ödeyeceğiniz komisyona BSMV ve operasyon giderleri dahildir. Sizden örtülü ek bir ödeme talep edilmez.    
+    - title: Pratik Kurulum
+      background: background-4.jpg  
+      content: Sözleşme aşamasında test hesabını kullanarak API entegrasyon çalışmalarını kolayca yapabilir ve sözleşme imzalandıktan itibaren anında ödeme almaya başlayabilirsiniz.  
+    - title: Bakım Ücreti Yok
+      background: background-5.jpg    
+      content: Sadece ödeme yaptıkça komisyon ödersiniz, ödeme platformunu kullanmadığınız sürece bakım, mutabakat gibi hizmetler için herhangi bir ödeme yapmazsınız.    
 # ----------------     
 # Creative Section
-creative_title_highlight: "‘’Valensas’’ "
-creative_title_main: Creative Performance
-creative_subtitle: Valensas has a broad portfolio of solutions for companies of all sizes. We work as a family to produce intelligent design and last technology engineering products with young, inspiring and collaborative people. 
+creative_title_highlight: İşte Pay 
+creative_title_main: Ödeme Kuruluşu
+creative_subtitle: Hemen Güvenli Ödeme Almaya Başlayın
 creative_features:
-    - title: iOS & AND Development
-      description: Apple’s launch of the application market in 2008 culminated in the creation of a new, vast market.
+    - title: Hızlı ve Güvenli Ödeme
+      description: Müşterileriniz hızlı ve güvenli alışverişin rahatlığını yaşar.
       icon: feature_icon_check.png
-      link_text: Read More
-      link_path: /projects/
-    - title: Backend Development
-      description: Apple’s launch of the application market in 2008 culminated in the creation of a new, vast market.
+
+    - title: Kolay İptal ve İade
+      description: Servis üzerinden istediğiniz zaman ödemeleri iptal veya iade edebilirsiniz.
       icon: feature_icon_wand.png
-      link_text: Read More
-      link_path: /projects/
-    - title: Consulting
-      description: Apple’s launch of the application market in 2008 culminated in the creation of a new, vast market.
+
+    - title: Uygun Komisyon Garantisi
+      description: Komisyon BSMV ve operasyon giderlerini kapsamaktadır, örtülü olarak ek bir ücretlendirme ile karşılaşmazsınız. Ayrıca kurulum ücreti yok.
       icon: feature_icon_rocket.png
-      link_text: Read More
-      link_path: /projects/
+
 # ----------------     
 # Case Studies Section
-casestudies_title: Case Studies
+casestudies_title: Vaka Çalışmaları
 casestudies_slider:
-    -  title: Akbank "Tosla"
-       content: We have an alternative to cash in your pocket and your money in the bank. It is cheap to move, easy to reach and open up a new social world to be a part.<br><br> Instant  money transfer to all your friends, whether or not they are network members.<br><br> Moreover, you can withdraw the money sent via ATMs and reach to the cash you need instantly.
+    -  title: Valensas
+       content:  kritik duyuların yapılacağı bir bölüm 
+                  iletişim(email varsa telefon) 
+                  adres(ticari sicil numarası ve mersis numası olmalı ) 
+                  merkez bankası adresi vs. 
+                  download edilebilecek ve sonrasında mail ile gönderilebilecek bir itiraz formu(yapılması kolay olursa form üzerinden de girdirilebilir) OK
+                  uygulama tanıtım(sss) 
+                  alınan ücretler varsa limitler 
+                  güvenlik, gizlilik, kvkk ve kullanıcı sözleşmesi gibi ilgili onaylatılan formlar
        image: case1.png
-    -  title: Turkish Airlines
-       content: Cabin and cockpit crews are now able to do their operations online.<br><br>We achieved more than 50% of time savings across all transactions.<br><br>Document tracking, personnel tracking, flight personnel information and flight information are available to the whole team.
-       image: case2.png
-    -  title: Hepsiburada ChatBot
-       content: Hepsiburada ChatBot and witnessed immediate relief within our support operation.<br><br>Currently, our bot provides instantaneous support to 60% of all chatting customers, and has reduced our queued visitors by over 50%.<br><br>Hepsiburada Chatbot 7/24 works, starts talking with you, provides instant information about your orders.
-       image: case3.png
+    # -  title: Bitronit
+    #    content: Hızlıca kripto para alın.
+    #    image: case2.png
 # ----------------  
 # Customers
 customers_title: Our Customers

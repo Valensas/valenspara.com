@@ -8,36 +8,47 @@ host: 0.0.0.0
 # port: 4000
 
 nav:
-  - text: Our Products
-    link: /products/
-  - text: Enterprise Solutions
-    link: /enterprise-solutions/
-  - text: Projects
-    link: /projects/
-  - text: Contact
+  - text: Başvuru
+    link: /apply/
+  - text: Hakkımızda
+    link: /about/
+  - text: Ücretler
+    link: /fees/
+  - text: Duyurular
+    link: /announcements/
+  - text: İletişim
     link: /contact/
 
 
-footer_cta: Size nasıl yardımcı olabiliriz?
+footer_cta: Size Nasıl Yardımcı Olabiliriz?
 footer_cta_link: mailto:info@istepay.com
-footer_content_1: Lorem
-footer_content_2: Lorem
+footer_cta2: Şikayet ve öneri formu örneğini buradan indirebilirsiniz.
+footer_cta2_link: /form.pdf
+footer_content_1: İşte Pay Ödeme Kuruluşu A.Ş.
+footer_content_2: "@2020 Tüm Hakları Saklıdır"
+footer_content_3: |+
+  (+90) 212 285 0122
+  info@istepay.com
+  Reşitpaşa Mah. Katar Cad. ARI TEKNOKENT 2 Sit. No:4/1
+  Sarıyer - İstanbul - Türkiye
 footer_navigation_1_title: Güvenlik
 footer_navigation_1:
     - text: Gizlilik Politikası
-      link: /products/
+      link: /privacy/
     - text: KVKK
-      link: /enterprise-solutions/
+      link: /kvkk/
     - text: Güvenlik
-      link: /projects/
+      link: /security/
+    - text: Yasal Uyarılar
+      link: /legal/
 footer_navigation_2_title: Hakkında
 footer_navigation_2:
     - text: Sıkça Sorulan Sorular
-      link: /contact/
+      link: /sss/
     - text: Kuruluş
-      link: /contact/
-    - text: Yönetim Kurulu
-      link: /contact/
+      link: /company/
+    - text: Ücretler
+      link: /fees/
     - text: İletişim
       link: /contact/
 

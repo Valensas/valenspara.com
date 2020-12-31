@@ -8,8 +8,7 @@
 
   .heroCarousel p {
     font-weight: 200;
-    min-height: 30%;
-    font-size: small;
+    font-size: medium;
     margin-bottom: 4px !important;
     @media( min-width: 768px) {
         max-width: 70%;
@@ -20,16 +19,17 @@
   .main-inner p{
     font-weight: 200;
     min-height: 30%;
-    font-size: small;
+    font-size: medium;
     margin-bottom: 4px !important;
     @media( min-width: 768px) {
         max-width: 70%;
-        font-size: medium;
+        font-size: larger;
     }
   }
 
   .heroCarousel .carousel-item {
     background-size: cover;
+    background-position: 0% 0%;
   }
 
   .heroCarousel .carousel-item .app-icon {

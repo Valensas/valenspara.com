@@ -1,15 +1,27 @@
 
   .footer {
-    background-color: #314361;
-    color: #fff;
+    background-color: #AAAAAA;
+    color: #000;
   }
   
   .footer__banner {
     display: block;
-    background-color: #ff7979;
+    background-color: #FF4136;
     color: #fff;
+    font-weight: 300;
+    font-size: 18px;
+    &:hover {
+      text-decoration: none;
+      color:  #fff;
+    }
+  }
+
+  .footer__banner2 {
+    display: block;
+    background-color: #f57973;
+    text-align: center;
+    color: #ccc;
     font-weight: 200;
-    text-transform: uppercase;
     font-size: 16px;
     &:hover {
       text-decoration: none;
@@ -34,13 +46,17 @@
   .footer h4 {
   
   }
+
+  .footer img {
+    width: 10em;
+  }
   
   .footer__links > a{
     display: block;
-    opacity: 0.5;
-    color: #fff;
+    opacity: 1;
+    color: #001f3f;
     font-weight: 200;
-    font-size: 0.875rem;
+    font-size: 1rem;
     margin-bottom: 0.4rem;
     &:hover {
       color: #fff;
