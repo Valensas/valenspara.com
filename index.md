@@ -41,14 +41,7 @@ creative_features:
 casestudies_title: Vaka Çalışmaları
 casestudies_slider:
     -  title: Valensas
-       content:  kritik duyuların yapılacağı bir bölüm 
-                  iletişim(email varsa telefon) 
-                  adres(ticari sicil numarası ve mersis numası olmalı ) 
-                  merkez bankası adresi vs. 
-                  download edilebilecek ve sonrasında mail ile gönderilebilecek bir itiraz formu(yapılması kolay olursa form üzerinden de girdirilebilir) OK
-                  uygulama tanıtım(sss) 
-                  alınan ücretler varsa limitler 
-                  güvenlik, gizlilik, kvkk ve kullanıcı sözleşmesi gibi ilgili onaylatılan formlar
+       content: Hızlı ve kolay ziyaret bileti satın alın.
        image: case1.png
     # -  title: Bitronit
     #    content: Hızlıca kripto para alın.

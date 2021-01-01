@@ -4,15 +4,15 @@ title: Ücretler
 permalink: /fees/
 ---
 
-##### <span style="color: #2a60ba;font-weight: 500;"> Kurulum </span>
+##### Kurulum
 
 Üye işyerlerinden başlangıç ücreti alınmaz.
 
-##### <span style="color: #2a60ba;font-weight: 500;"> Üyelik </span>
+##### Üyelik
 
 Ödeme platformu kullanıcılarına, doğrudan veya örtülü olarak, hiçbir şekilde ödeme platformu kullanımı ile ilgili bir ücretlendirme yapılmaz.  
 
-##### <span style="color: #2a60ba;font-weight: 500;"> Komisyon Fiyatlandırması </span>
+##### Komisyon Fiyatlandırması
 
 Ödeme platformunun gelir modeli komisyon geliri üzerine kurulmuştur. Başarılı işlem başına cüzi miktarda ücretlendirme yapılır. İşlem üzerinden işlemin belirli bir yüzdesi ve sabit işlem ücreti olarak kesinti yapılır.
 

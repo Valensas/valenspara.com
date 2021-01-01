@@ -1,7 +1,7 @@
 ---
 layout: project_single
-title: Fiyatlandırma Bildirisi
-project_date: 01.01.2021 23:59
+title: 02.01.2021 - Fiyatlandırma Bildirisi
+project_date: 02.01.2021 23:59
 project_type:
     - Fiyatlandırma
 ---

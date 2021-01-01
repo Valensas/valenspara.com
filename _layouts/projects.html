@@ -11,7 +11,7 @@ layout: default
 
 <div class="container">
   <section class="projects row">
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
       <div class="projects__item col-md-12 col-sm-12 col-lg-12">
         <h2> <a href="{{ project.url }}">{{ project.title }}</a></h2>
         <div class="mb-5">{{ project.content | truncate: 80 }} <a href="{{ project.url }}">Daha Fazla</a> </div>

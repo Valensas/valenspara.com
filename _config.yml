@@ -43,10 +43,10 @@ footer_navigation_1:
       link: /legal/
 footer_navigation_2_title: Hakkında
 footer_navigation_2:
+    - text: Hakkımızda
+      link: /about/
     - text: Sıkça Sorulan Sorular
       link: /sss/
-    - text: Kuruluş
-      link: /company/
     - text: Ücretler
       link: /fees/
     - text: İletişim

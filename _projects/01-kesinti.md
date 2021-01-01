@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title: Sistem Kesintisi
+title: 01.01.2021 - Sistem Kesintisi
 project_date: 01.01.2021 23:59
 project_type:
     - Kesinti

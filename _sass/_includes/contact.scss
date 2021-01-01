@@ -22,11 +22,13 @@
   }
   .contact h3 {
     font-size: 1.5rem;
-    color: #0067b4;
     font-weight: 300;
   }
   .contact img {
     width: 10em;
+  }
+  .contact a, h3 {
+    color: blueviolet;
   }
 
   .gmap_canvas {

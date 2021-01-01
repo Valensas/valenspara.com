@@ -1,9 +1,25 @@
 .terms__single {
-
-    h1:first-of-type {
-      text-transform: uppercase;
-      color: #2c3e50;
-    }
-  
+  h1:first-of-type {
+    text-transform: uppercase;
+    color: #2c3e50;
   }
-  
+  a, a:link {
+    color: blueviolet;
+  }
+  h5 {
+    font-weight: 500;
+    color: blueviolet;
+  }
+
+  p {
+    @media (max-width: 544px) {
+      font-size:small; /*1rem = 16px*/
+    }
+
+    font-size: 1.125rem;
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+    line-height: 1.75;
+    font-weight: 200;
+  }
+}

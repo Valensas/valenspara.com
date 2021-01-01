@@ -1,13 +1,14 @@
 
   .footer {
-    background-color: #AAAAAA;
-    color: #000;
+    background-color: #c4c4c4;
+    color: #180c23;
+    margin-bottom: 0;
   }
   
   .footer__banner {
     display: block;
-    background-color: #FF4136;
-    color: #fff;
+    background-color: #8565c4;
+    color: #ccc;
     font-weight: 300;
     font-size: 18px;
     &:hover {
@@ -18,9 +19,9 @@
 
   .footer__banner2 {
     display: block;
-    background-color: #f57973;
+    background-color: #a28ad2;
     text-align: center;
-    color: #ccc;
+    color: #ddd;
     font-weight: 200;
     font-size: 16px;
     &:hover {
@@ -39,7 +40,7 @@
   
   .footer p {
     font-weight: 200;
-    opacity: 0.5;
+    opacity: 0.7;
     font-size: 14px;
   }
   
@@ -54,7 +55,7 @@
   .footer__links > a{
     display: block;
     opacity: 1;
-    color: #001f3f;
+    color: #2b1641;
     font-weight: 200;
     font-size: 1rem;
     margin-bottom: 0.4rem;
