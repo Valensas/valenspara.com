@@ -51,32 +51,6 @@ casestudies_slider:
 customers_title: Our Customers
 customers_quote: Colore, stylish icons can easily be modified and used in a wide cariety of projects
 customer_logos:
-  - logo: logo_thy.png
+  - logo: .png
     height: 40px
-  - logo: logo_telekom.png
-    height: 45px
-  - logo: logo_ing.png
-    height: 35px
-  - logo: logo_n11.png
-    height: 45px
-  - logo: logo_arter.png
-    height: 60px
-  - logo: logo_log.png
-    height: 30px
-  - logo: logo_kb.png
-    height: 25px
-  - logo: logo_ys.png
-    height: 60px
-  - logo: logo_sahibinden.png
-    height: 50px
-  - logo: logo_roche.png
-    height: 80px
-  - logo: logo_akbank.png
-    height: 20px
-  - logo: logo_tekfen.png
-    height: 90px
-  - logo: logo_cs.png
-    height: 45px
-  - logo: logo_bmw.png
-    height: 80px
 ---
