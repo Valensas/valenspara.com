@@ -5,7 +5,7 @@ layout: main
 hero_slider:
     - title: Hızlı ve Güvenli Ödeme
       background: background-1.jpg
-      content: Müşterinizden yurt içi tüm kredi ve banka kartlarından hızlıca güvenli ödeme alın.  
+      content: Sanal POS çözümü ile yurt içi tüm kredi ve banka kartlarından hızlıca güvenli ödeme alın.  
     - title: Kolay İptal ve İade
       background: background-2.jpg       
       content: Ödeme servislerini kullanarak 7/24 iptal ve iade işlemlerini gerçekleştirebilirsiniz. İade işlemlerinizi ödeme tutarıyla veya belirleyeceğiniz altında bir tutarla gerçekleştirebilirsiniz.     
@@ -25,7 +25,7 @@ creative_title_main: Ödeme Kuruluşu
 creative_subtitle: Hemen Güvenli Ödeme Almaya Başlayın
 creative_features:
     - title: Hızlı ve Güvenli Ödeme
-      description: Müşterileriniz hızlı ve güvenli alışverişin rahatlığını yaşar.
+      description: Sanal POS çözümü ile müşterileriniz hızlı ve güvenli alışverişin rahatlığını yaşar.
       icon: feature_icon_check.png
 
     - title: Kolay İptal ve İade

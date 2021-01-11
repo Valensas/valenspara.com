@@ -7,8 +7,7 @@ location: arı teknokent 2
 
 contact:
     - title: Merkez Ofis, İstanbul
-      phone: +90 (212) 285 01 22
-      fax: +90 212 366 58 02
+      phone: +90 (212) 939 26 74
       mail: info@istepay.com
       address:
        - line: Huzur Mah. Ayazağa Cad.

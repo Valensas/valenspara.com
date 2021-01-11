@@ -8,7 +8,7 @@ project_type:
 
 Genel fiyatlandırma çalışması tamamlanmıştır. İleride yapılacak fiyat güncellemeleri ayrıca Duyurular sayfasından bildirilecektir.
 
-Sözleşmeye bağlı olarak üye işyeri nezdinde değişiklik gösterebilmektedir. Firmanız için geçerli koşulları öğrenmek için lütfen info@istepay.com adresinden bilgi alınız. 
+Sözleşmeye bağlı olarak üye işyeri itibarı ile değişiklik gösterir. Firmanız için geçerli koşulları öğrenmek için lütfen info@istepay.com adresinden bilgi alınız. 
 
 Genel fiyatlandırma bilgileri aşağıdadır:
 
