@@ -12,7 +12,7 @@ permalink: /apply/
 
 Başvuru öncesinde üye işyeri sözleşmesini okumanız, sözleşme koşullarına uyum sağladığınızdan emin olmanız ve sözleşmede belirtilen dokümanların hazırlanmış olması gerekmektedir. Bu koşulları sağlayan şirketler için başvuru süreci aşağıda yer almaktadır:
 
-- <a href="mailto:info@istepay.com">info@istepay.com</a> adresi üzerinden üye işyeri sözleşmesinde yer alan başvuru formu ile başvuruda bulursunuz.
+- <a href="mailto:iletisim@istepay.com">iletisim@istepay.com</a> adresi üzerinden üye işyeri sözleşmesinde yer alan başvuru formu ile başvuruda bulursunuz.
 - Müşteri temsilcimiz sizinle irtibata geçip ön inceleme için gerekli belgeleri göndermenizi rica eder.
 - Başvurunuz ilk olarak ön inceleme sürecinden geçer, ön inceleme olumlu olarak değerlendirdiğinde azami 15 gün deneme süreli test hesabınız tanımlanır.
 - Sözleşmenin sizin tarafınızdan imzalanmış örneğini müşteri temsilcimizin belirlediği yöntemlerle bize ulaştırırsınız.

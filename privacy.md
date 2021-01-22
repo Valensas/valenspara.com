@@ -4,6 +4,6 @@ title: GİZLİLİK POLİTİKASI
 permalink: /privacy/
 ---
 
-##### Başlık
+##### Gizlilik Politikası
 
-Metin
+Metin eklenecektir.

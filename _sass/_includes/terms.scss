@@ -22,4 +22,13 @@
     line-height: 1.75;
     font-weight: 200;
   }
+
+  li {
+    @media (max-width: 544px) {
+      font-size:small; /*1rem = 16px*/
+    }
+
+    color: #2c3e50;
+    font-weight: 300;
+  }
 }
