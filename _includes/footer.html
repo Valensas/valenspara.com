@@ -1,17 +1,17 @@
 <footer class="footer pb-2">
-    <a href="{{site.footer_cta_link}}" class="footer__banner py-4 text-center">
+    <a href="{{ site.footer_cta_link | relative_url }}" class="footer__banner py-4 text-center">
         {{site.footer_cta}}
     </a>
 
-    <a href="{{site.footer_cta2_link}}" target="_blank" class="footer__banner2 py-4 mb-4">
+    <a href="{{ site.footer_cta2_link | relative_url }}" target="_blank" class="footer__banner2 py-4 mb-4">
         {{site.footer_cta2}}
     </a>
 
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img class="mb-4" src="/img/logo.png">
-                <img class="mb-4" src="/img/tcmb-logo.png">
+                <img class="mb-4" src="{{ site.baseurl }}/img/logo.png">
+                <img class="mb-4" src="{{ site.baseurl }}/img/tcmb-logo.png">
                 <h4>{{site.footer_content_1}}</h4>
                 <p>{{site.footer_content_2}}</p>
             </div>
@@ -20,7 +20,7 @@
                   <h4 class="mb-2" >{{site.footer_navigation_1_title}}</h4>
                   <div class="footer__links d-flex">
                       {% for item in site.footer_navigation_1 %}
-                      <a class="pr-3" href="{{item.link}}">{{item.text}}</a>
+                      <a class="pr-3" href="{{ item.link | relative_url }}">{{item.text}}</a>
                       {% endfor %}
                   </div>
               </div>
@@ -28,7 +28,7 @@
                   <h4 class="mb-2" >{{site.footer_navigation_2_title}}</h4>
                   <div class="footer__links d-flex">
                       {% for item in site.footer_navigation_2 %}
-                      <a class="pr-3" href="{{item.link}}">{{item.text}}</a>
+                      <a class="pr-3" href="{{ item.link | relative_url }}">{{item.text}}</a>
                       {% endfor %}
                   </div>
               </div>

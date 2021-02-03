@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="projects__hero text-center mb-3 mb-md-5" style="background-image: url(/img/{{page.hero_bg}});">
+<section class="projects__hero text-center mb-3 mb-md-5" style="background-image: url({{site.baseurl}}/img/{{page.hero_bg}});">
   <div class="container">
     <h1 class="mb-4 ">{{page.title}}</h1>
     <p class="w-75 mx-auto">{{page.subtitle}}</p>
@@ -14,7 +14,7 @@ layout: default
     {% for project in site.projects reversed %}
       <div class="projects__item col-md-12 col-sm-12 col-lg-12">
         <h2> <a href="{{ project.url }}">{{ project.title }}</a></h2>
-        <div class="mb-5">{{ project.content | truncate: 80 }} <a href="{{ project.url }}">Daha Fazla</a> </div>
+        <div class="mb-5">{{ project.content | truncate: 80 }} <a href="{{ project.url | relative_url }}">Daha Fazla</a> </div>
       </div>
     {% endfor %}
   </section>

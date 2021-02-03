@@ -6,7 +6,7 @@ permalink: /apply/
 
 ##### Üye İşyeri Sözleşmesi
 
-Üye işyeri sözleşme dokümanını <a href="/istepay-uye-isyeri-sozlesmesi.pdf" target="_blank">buradan</a> indirebilirsiniz.
+Üye işyeri sözleşme dokümanını **<a href="{{ site.baseurl }}/istepay-uye-isyeri-sozlesmesi.pdf" target="_blank">buradan</a>** indirebilirsiniz.
 
 ##### Başvuru Adımları
 
