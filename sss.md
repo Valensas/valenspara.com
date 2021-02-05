@@ -6,13 +6,13 @@ permalink: /sss/
 
 ##### Neden İşte Pay?
 
-İşte Pay size güvenilir ve kullanım kolaylığı sunan bir ödeme çözümü sunar. Satış işlemleri anlık olarak gerçekleştirilir. 
+İşte Pay size güvenilir ve kullanım kolaylığı sunan bir ödeme çözümü sunar. Satış işlemleri anlık olarak gerçekleştirilir.
 
 ##### Şirketin sanal POS cihazı olması gerekir mi?
 
 İşte Pay kendi sanal POS'unu kullanarak hizmet vermektedir. Böylece bankalar ile ayrı ayrı sanal POS anlaşması yapmanıza, her bir POS için kurulum ve bakım ücretleri ödemenize gerek kalmaz.
 
-Ayrıca mevcut sanal POS'larıyla çalışmaya devam etmek isteyen müşterimize özel entegrasyon hizmeti sunmaktayız. Detaylı bilgi için <a href="mailto:info@istepay.com">info@istepay.com</a> adresinden iletişime geçebilirsiniz.
+Ayrıca mevcut sanal POS'larıyla çalışmaya devam etmek isteyen müşterimize özel entegrasyon hizmeti sunmaktayız. Detaylı bilgi için **<a href="mailto:info@istepay.com">info@istepay.com</a>** adresinden iletişime geçebilirsiniz.
 
 ##### İptal ve iade yapılabilir mi?
 
@@ -30,13 +30,13 @@ Bir gün içerisinde gerçekleşen başarılı ödeme işlemlerinden komisyon ke
 
 Başvuru koşulları için <a href="/apply/">Başvuru</a> sayfamızı ziyaret edebilir, sayfadan indirebileceğiniz üye işyeri sözleşmesini inceleyebilirsiniz.
 
-##### Hangi kredi ve banka kartları kullanılabilir?
+##### Hangi kredi kartları ve banka kartları kullanılabilir?
 
-Ödeme işlemlerinde yurt içi tüm kredi ve banka kartları kullanılabilir.
+Ödeme işlemlerinde yurt içi tüm kredi kartları ve banka kartları kullanılabilir.
 
 ##### Kart bilgileri güvende mi?
 
 Kart bilgileri hiç bir koşulda saklanmamakta, ödeme talebi entegre olunan bankaya iletildikten hemen sonra silinmektedir. Bu sayede kart bilgilerinin çalınma tehlikesi oluşmaz.
 
 ---
-Diğer sorularınızı <a href="mailto:info@istepay.com">info@istepay.com</a> adresinden müşteri temsilcimize sorabilirsiniz. 
+Diğer sorularınızı **<a href="mailto:info@istepay.com">info@istepay.com</a>** adresinden müşteri temsilcimize sorabilirsiniz.

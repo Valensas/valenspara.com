@@ -6,15 +6,15 @@ permalink: /about/
 
 ##### İşte Pay
 
-İşte Pay Ödeme Kuruluşu A.Ş.; bankacılık, finans ve çeşitli sektörlerde çok sayıda başarılı projede hem iş yönetimi hem de teknik taraflardaki çeşitli pozisyonlarda bilfiil görev almış tecrübeli bir ekip tarafından yüzde yüz yerli ve öz sermaye ile kurulmuştur.
+İşte Pay Ödeme Kuruluşu A.Ş.; bankacılık, finans ve çeşitli sektörlerde çok sayıda başarılı projede hem iş yönetimi hem de teknik taraflardaki çeşitli pozisyonlarda bilfiil görev almış, tecrübeli bir ekip tarafından yüzde yüz yerli ve özsermaye ile kurulmuştur.
 
-Kuruluşumuz, kullanım kolaylığı ve güvenlik ilkelerinden asla taviz vermeden, müşterilerine her zaman en iyi hizmeti vermeyi ilke edinmiştir. Kuruluşumuz küresel boyutta sektörel ve teknolojik yenilikleri daima yakından takip etmektedir.
+Kuruluşumuz, kullanım kolaylığı ve güvenlik ilkelerinden asla taviz vermeden, müşterilerine her zaman en iyi hizmeti vermeyi ilke edinmiştir. Kuruluşumuz küresel boyutta, sektörel ve teknolojik yenilikleri daima yakından takip etmektedir.
 
-İşte Pay, ister büyük ister küçük, tüm ölçekteki firmalar için müşteri odaklı ve müşteri segmentine özel çözümler sunarak; e-ticaret sektörünün benimsediği en güvenilir ve yenilikçi ödeme kuruluşları arasında olmayı hedeflemektedir.   
+İşte Pay, büyük küçük, tüm ölçekteki firmalar için müşteri odaklı ve müşteri segmentine özel çözümler sunarak; e-ticaret sektörünün benimsediği en güvenilir ve yenilikçi ödeme kuruluşları arasında olmayı hedeflemektedir.
 
 ##### İş Yaklaşımı
 
-Kuruluşumuz gerek yönetimsel gerekse teknolojik seviyede "Büyük Düşün, Küçük Başla" prensibini benimsemiştir. Bu sebeple aşırı mühendislik (over engineering) içeren uygulamalardan kaçınmaktadır. Böylece hem kuruluş genelinde gereksiz giderler önlenip dolayısıyla müşterilerimize yansıtılmamakta hem de müşterilerimize çözüm odaklı, güvenilir ve kullanışlı hizmetler sunulmaktadır.
+Kuruluşumuz gerek yönetimsel gerekse teknolojik seviyede "Büyük Düşün, Küçük Başla" prensibini benimsemiştir. Bu sebeple aşırı mühendislik (over engineering) olarak yorumlanabilecek uygulamalardan kaçınmaktadır. Böylece hem iş hedeflerine doğrudan katkı sağlamayan faaliyetlerin neden olduğu giderler önlenmekte ve dolayısıyla müşterilerimize de yansıtılmamakta, hem de müşterilerimize amaç ve çözüm odaklı, güvenilir ve kullanışlı hizmetler sunulmaktadır.
 
 ##### Lisans
 

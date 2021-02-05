@@ -10,13 +10,13 @@ permalink: /fees/
 
 ##### Üyelik
 
-Ödeme platformu kullanıcılarına, doğrudan veya örtülü olarak, hiçbir şekilde ödeme platformu kullanımı ile ilgili bir ücretlendirme yapılmaz.  
+Ödeme platformu kullanımı ile ilgili doğrudan veya örtülü hiçbir ücret talep edilmez.
 
 ##### Komisyon Fiyatlandırması
 
-Ödeme platformunun gelir modeli komisyon geliri üzerine kurulmuştur. Başarılı işlem başına cüzi miktarda ücretlendirme yapılır. İşlem üzerinden işlemin belirli bir yüzdesi ve sabit işlem ücreti olarak kesinti yapılır.
+Ödeme platformunun gelir modeli komisyon geliri üzerine kurulmuştur. Başarılı işlem başına işlemin belirli bir yüzdesi ve sabit ücreti olarak kesinti yapılır. İşlem üzerinden işlemin belirli bir yüzdesi ve sabit işlem ücreti olarak kesinti yapılır.
 
-Mevcut genel ücretlendirme tarifesi aşağıdaki gibidir:
+Ücretlendirme tarifesi*:
 
 - Komisyon Oranı: Yüzde 2.25
 - Sabit İşlem Ücreti: 0.25 TL
