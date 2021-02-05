@@ -13,7 +13,7 @@ layout: default
   <section class="projects row">
     {% for project in site.projects reversed %}
       <div class="projects__item col-md-12 col-sm-12 col-lg-12">
-        <h2> <a href="{{ project.url }}">{{ project.title }}</a></h2>
+        <h2> <a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
         <div class="mb-5">{{ project.content | truncate: 80 }} <a href="{{ project.url | relative_url }}">Daha Fazla</a> </div>
       </div>
     {% endfor %}
