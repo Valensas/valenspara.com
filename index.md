@@ -22,9 +22,8 @@ hero_slider:
 # Creative Section
 creative_title_highlight: İşte Pay 
 creative_title_main: Ödeme Kuruluşu
-creative_subtitle: Hemen Güvenli Ödeme Almaya Başlayın </br>
-
-                    * İşte Pay Ödeme Kuruluşu A.Ş.'nin, 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun kapsamında, Türkiye Cumhuriyet Merkez Bankası’na yaptığı faaliyet izni başvurusunu tamamlanmış olup yetkili mercilerin değerlendirme süreci devam etmektedir.
+creative_subtitle: Hemen Güvenli Ödeme Almaya Başlayın </br> </br>
+                    * İşte Pay Ödeme Kuruluşu A.Ş.'nin, 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun kapsamında, Türkiye Cumhuriyet Merkez Bankası’na yaptığı faaliyet izni başvurusu tamamlanmış olup yetkili mercilerin değerlendirme süreci devam etmektedir.
 
 creative_features:
     - title: Hızlı ve Güvenli Ödeme
