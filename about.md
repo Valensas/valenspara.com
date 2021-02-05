@@ -14,7 +14,7 @@ Kuruluşumuz, kullanım kolaylığı ve güvenlik ilkelerinden asla taviz vermed
 
 ##### İş Yaklaşımı
 
-Kuruluşumuz gerek yönetimsel gerekse teknolojik seviyede "Büyük Düşün, Küçük Başla" prensibini benimsemiştir. Bu sebeple aşırı mühendislik (over engineering) olarak yorumlanabilecek uygulamalardan kaçınmaktadır. Böylece hem iş hedeflerine doğrudan katkı sağlamayan faaliyetlerin neden olduğu giderler önlenmekte ve dolayısıyla müşterilerimize de yansıtılmamakta, hem de müşterilerimize amaç ve çözüm odaklı, güvenilir ve kullanışlı hizmetler sunulmaktadır.
+Kuruluşumuz gerek yönetim yapısı gerekse teknolojik seviyede “Büyük Düşün, Küçük Başla” prensibini benimsemiştir. Gereksiz maliyet yaratacak adımlardan kaçınarak müşterilerine uygun fiyatlı çözümler geliştirirken müşteri odaklı tasarımlarla, güvenilir ve kullanışlı hizmetler sunmaktadır.
 
 ##### Lisans
 
