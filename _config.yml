@@ -2,8 +2,8 @@
 title: İşte Pay
 description: >- # this means to ignore newlines until "baseurl:"
   Ödeme Kuruluşu
-baseurl: "/istepay.com" # the subpath of your site, e.g. /blog
-url: "https://valensas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://istepay.com" # the base hostname & protocol for your site, e.g. http://example.com
 host: 0.0.0.0
 # port: 4000
 
