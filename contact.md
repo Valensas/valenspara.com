@@ -18,8 +18,8 @@ contact:
       mail: info@istepay.com
       address:
        - line: Reşitpaşa Mah. Katar Cad.
-       - line: Arı Teknokent 2 Binası A Blok No: 4 /1  
-       - line: İç Kapı No: 406 Sarıyer/İstanbul
+       - line: Arı Teknokent 2 Binası A Blok No`:` 4 /1  
+       - line: İç Kapı No`:` 406 Sarıyer/İstanbul
     # - title: Yedek Veri Merkezi, İzmir
     #   phone: +90 (232) 504 11 65
     #   fax: +90 232 504 11 65
