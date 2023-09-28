@@ -20,6 +20,4 @@ Kuruluşumuz gerek yönetim yapısı gerekse teknolojik seviyede “Büyük Dü�
 
 <img style="width:10em" src="{{ site.baseurl }}/img/tcmb-logo.png">
 
-İşte Pay Ödeme Kuruluşu A.Ş.'nin, 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun kapsamında, Türkiye Cumhuriyet Merkez Bankası’na yaptığı faaliyet izni başvurusu tamamlanmış olup yetkili mercilerin değerlendirme süreci devam etmektedir.
-
-<!-- İşte Pay Ödeme Kuruluşu Kuruluşu A.Ş., 6493 sayılı Ödeme Ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri Ve Elektronik Para Kuruluşları Hakkında Kanun'a uyumlu olarak Türkiye Cumhuriyeti Merkez Bankası lisanslı ödeme kuruluşudur. -->
+İşte Pay Ödeme Kuruluşu Kuruluşu A.Ş., 6493 sayılı Ödeme Ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri Ve Elektronik Para Kuruluşları Hakkında Kanun'a uyumlu olarak Türkiye Cumhuriyeti Merkez Bankası lisanslı ödeme kuruluşudur.
