@@ -33,6 +33,7 @@ contact:
 tax: Maslak V.D. No:4821179167
 identity: 282174-5
 mersis: 0482117916700001
+kep: iste.pay@hs01.kep.tr
 tcmb:
   title: Türkiye Cumhuriyeti Merkez Bankası (TCMB)
   phone: +90 (312) 507 50 00
