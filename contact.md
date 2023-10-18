@@ -6,7 +6,7 @@ permalink: /contact/
 location: arı teknokent 2
 
 contact:
-    - title: Merkez
+    - title: Merkez Ofis
       phone: +90 (212) 285 01 22
       mail: info@istepay.com
       address:
@@ -14,13 +14,6 @@ contact:
        - line: Arı Teknokent 2 Binası A Blok No:<span> 4/1  
        - line: İç Kapı No:<span> 406
        - line: Sarıyer/İstanbul
-    - title: Ofis
-      phone: +90 (212) 939 26 74
-      mail: info@istepay.com
-      address:
-      - line: Huzur Mah. Ayazağa Cad.
-      - line: Uniq İstanbul Sitesi B Blok No 4B
-      - line: Sarıyer, İstanbul
     # - title: Yedek Veri Merkezi, İzmir
     #   phone: +90 (232) 504 11 65
     #   fax: +90 232 504 11 65
