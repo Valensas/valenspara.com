@@ -27,8 +27,6 @@ layout: default
             </div>
         </div>
         {% endfor %}
-    </div>
-    <div class="row">
         <div class="col-md-6 py-5 pl-5">
             <h3 class="mb-4">Ticari Bilgiler</h3>
             <div class="contant__details">
@@ -38,6 +36,8 @@ layout: default
                 <span>KEP Adresi: {{page.kep}}</span><br>
             </div>
         </div>
+    </div>
+    <div class="row">
         <div class="col-md-6 py-5 pl-5">
             <h3 class="mb-4">Yetkili Denetim Organı</h3>
             <img class="mb-4" src="{{ site.baseurl }}/img/tcmb-logo.png">
@@ -53,5 +53,8 @@ layout: default
                 <span>Web Adresi: <a href="https://{{page.tcmb.website}}" target="_blank">{{page.tcmb.website}}</a></span>
             </div>
         </div>
+    </div>
+    <div class="row">
+        {{page.todeb}}
     </div>
 </section>
