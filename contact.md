@@ -27,6 +27,7 @@ tax: Maslak V.D. No:4821179167
 identity: 282174-5
 mersis: 0482117916700001
 kep: iste.pay@hs01.kep.tr
+
 tcmb:
   title: Türkiye Cumhuriyeti Merkez Bankası (TCMB)
   phone: +90 (312) 507 50 00
@@ -34,4 +35,19 @@ tcmb:
   address:
     - line: Hacı Bayram Mah. İstiklal Cad. No:10
     - line: 06050 Ulus Altındağ Ankara
+
+todeb:
+     Değerli bireysel müşterimiz, sunduğumuz hizmetlerden kaynaklı olarak yaşadığınız (bireysel nitelik taşıyan, dolayısıyla ticari faaliyet kapsamına girmeyen)
+     ihtilaf konusunda kuruluşumuza, uyuşmazlığa konu işlem veya eylemin gerçekleştiği tarihten itibaren en geç 2 yıl içerisinde yazılı başvuru gerçekleştirmiş ve
+     bu başvurunuz, başvuru tarihinizden itibaren 20 gün içerisinde; yanıtlanmamışsa yanıt verilmesi gereken 20 günlük sürenin bitiminden itibaren, başvurunuz
+     olumsuz yanıtlanmış veya verilen yanıtı yeterli bulmamanız halinde ise yanıt tarihinden itibaren 60 gün içerisinde [Türkiye Ödeme ve Elektronik Para Kuruluşları
+     Birliği (TÖDEB) Bireysel Müşteri Hakem Heyetine İlişkin Esas ve Usuller Hakkında Yönetmelik](/todeb-yonetmelik.pdf) uyarınca konuyla ilgili TÖDEB Bireysel Müşteri Hakem
+     Heyeti’ne başvurma hakkınız bulunmaktadır.
+     TÖDEB Bireysel Müşteri Hakem Heyeti’ne başvuru formuna aşağıdaki linkten veya www.todeb.org.tr sitesinden ulaşabilirsiniz. Form ilgili bilgilerin doldurulması
+     ve gerekli belgelerin yüklenmesi sonucu www.todeb.org.tr adresi üzerinden elektronik olarak iletilebilir.
+     [Hakem Heyeti Başvuru Formu](https://todeb.org.tr/hakemheyetibasvuruformu/)
+     TÖDEB Bireysel Müşteri Hakem Heyeti’ne başvuru ile ilgili tüm detaylı bilgilere buraya tıklayarak [(https://todeb.org.tr/sayfa/bireysel-musteri-hakem-heyeti/56/)](https://todeb.org.tr/sayfa/bireysel-musteri-hakem-heyeti/56/) ulaşabilirsiniz. Ayrıca, [Bilgilendirme Broşürünü](/todeb-brosur.pdf) de
+     inceleyebilirsiniz. 
+ 
 ---
+
