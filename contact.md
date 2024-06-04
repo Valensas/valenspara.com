@@ -8,7 +8,7 @@ location: Arı Teknokent 3
 contact:
     - title: Merkez Ofis
       phone: +90 (212) 285 01 22
-      mail: info@istepay.com
+      mail: info@valenspara.com
       address:
        - line: Reşitpaşa Mah. Katar Cad.
        - line: Arı Teknokent 3 Binası No:4
@@ -17,7 +17,7 @@ contact:
     # - title: Yedek Veri Merkezi, İzmir
     #   phone: +90 (232) 504 11 65
     #   fax: +90 232 504 11 65
-    #   mail: info@istepay.com
+    #   mail: info@valenspara.com
     #   address:
     #    - line: Gülbahçe Mah. Gülbahçe Cad.
     #    - line: İYTE TEKNOKENT  No:A9 D:34

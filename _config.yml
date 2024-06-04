@@ -1,9 +1,9 @@
 
-title: İşte Pay
+title: Valenspara
 description: >- # this means to ignore newlines until "baseurl:"
   Ödeme Kuruluşu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://istepay.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://valenspara.com" # the base hostname & protocol for your site, e.g. http://example.com
 host: 0.0.0.0
 # port: 4000
 
@@ -21,14 +21,14 @@ nav:
 
 
 footer_cta: Size Nasıl Yardımcı Olabiliriz?
-footer_cta_link: mailto:iletisim@istepay.com
+footer_cta_link: mailto:iletisim@valenspara.com
 footer_cta2: Öneri ve itiraz formunu buradan indirebilirsiniz.
 footer_cta2_link: /oneri-ve-itiraz-formu.docx
-footer_content_1: İşte Pay Ödeme Kuruluşu A.Ş.
+footer_content_1: Valenspara Ödeme Kuruluşu A.Ş.
 footer_content_2: "@2021 Tüm Hakları Saklıdır."
 footer_content_3: |+
   +90 (212) 285 01 22
-  info@istepay.com
+  info@valenspara.com
   Reşitpaşa Mah. Katar Cad.
   Arı Teknokent 3 Binası No:<span> 4  
   İç Kapı No:<span> 402/B

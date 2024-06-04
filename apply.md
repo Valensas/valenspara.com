@@ -6,13 +6,13 @@ permalink: /apply/
 
 ##### Üye İşyeri Sözleşmesi
 
-Üye işyeri sözleşme dokümanını **<a href="{{ site.baseurl }}/istepay-uye-isyeri-sozlesmesi.pdf" target="_blank">buradan</a>** indirebilirsiniz.
+Üye işyeri sözleşme dokümanını **<a href="{{ site.baseurl }}/valenspara-uye-isyeri-sozlesmesi.pdf" target="_blank">buradan</a>** indirebilirsiniz.
 
 ##### Başvuru Adımları
 
 Başvuru öncesinde üye işyeri sözleşmesini okumanız, sözleşme koşullarına uyum sağladığınızdan emin olmanız ve sözleşmede belirtilen dokümanların hazırlanmış olması gerekmektedir. Bu koşulları sağlayan şirketler için başvuru süreci aşağıda yer almaktadır:
 
-- **<a href="mailto:iletisim@istepay.com">iletisim@istepay.com</a>** adresi üzerinden üye işyeri sözleşmesinde yer alan başvuru formu ile başvuruda bulursunuz.
+- **<a href="mailto:iletisim@valenspara.com">iletisim@valenspara.com</a>** adresi üzerinden üye işyeri sözleşmesinde yer alan başvuru formu ile başvuruda bulursunuz.
 - Müşteri temsilcimiz sizinle irtibata geçip ön inceleme için gerekli belgeleri göndermenizi rica eder.
 - Başvurunuz ilk olarak ön inceleme sürecinden geçer, ön inceleme olumlu olarak değerlendirdiğinde azami 15 gün deneme süreli test hesabınız tanımlanır.
 - Sözleşmenin sizin tarafınızdan imzalanmış örneğini müşteri temsilcimizin belirlediği yöntemlerle bize ulaştırırsınız.
@@ -40,7 +40,7 @@ Yasal gerekler nedeniyle, aşağıda yer alan ürün ve/veya hizmetlerin satış
 - Reçeteli ilaçlar,
 - Suça teşvik edebilecek veya neden olabilecek veya telif hakkı korumalarını teknik yollarla ortadan kaldıran mal veya hizmetler,
 - Terör mevzuatı kapsamına giren ürün ve hizmetler,
-- İşte Pay'in itibarını zedeleyebilecek biçimde hakaret veya sövme içeren mal veya hizmetler,
+- Valenspara'nın itibarını zedeleyebilecek biçimde hakaret veya sövme içeren mal veya hizmetler,
 - Bahis ve kumar niteliğindeki mal veya hizmetler,
 - Üçüncü kişilerin fikrî ve sınaî mülkiyet haklarını ihlal eden mal veya hizmet,
 - Alkollü içecekler,
