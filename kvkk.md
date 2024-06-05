@@ -5,25 +5,25 @@ permalink: /kvkk/
 ---
 
 
-##### İŞTE PAY ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÜYE İŞYERİ İÇİN KVK AYDINLATMA METNİ
+##### VALENSPARA ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÜYE İŞYERİ İÇİN KVK AYDINLATMA METNİ
 
 Sayın Üye İşyeri Temsilcisi, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve bağlı mevzuat çerçevesinde, aşağıdaki hususlarda tarafınızın aydınlatılması yükümlülüğümüz bulunmaktadır. Konuya ilişkin haklarınızı tam olarak anlayabilmek ve kullanabilmek için aşağıdaki bilgileri dikkatlice okumanızı tavsiye ederiz. 
 
-6698 sayılı Kişisel Verilerin Korunması Kanunu **(Kanun)** hükümleri ve bağlı mevzuat gereği Şirketiniz ad ve hesabına hareket eden gerçek kişilere ait kimliği belirli veya belirlenebilir kılan her türlü bilgi, Kişisel Veri olarak nitelendirilmekte ve Veri Sorumlusu sıfatıyla İşte Pay Ödeme Kuruluşu A.Ş. **(İşte Pay)** tarafından aşağıda açıklandığı kapsamda ve mevzuat tarafından çizilen sınırlar çerçevesinde işlenmektedir. Ancak, Kanunun 6. maddesi kapsamındaki özel nitelikli kişisel veriler İşte Pay tarafından hiçbir şekilde işlenmemektedir. 
+6698 sayılı Kişisel Verilerin Korunması Kanunu **(Kanun)** hükümleri ve bağlı mevzuat gereği Şirketiniz ad ve hesabına hareket eden gerçek kişilere ait kimliği belirli veya belirlenebilir kılan her türlü bilgi, Kişisel Veri olarak nitelendirilmekte ve Veri Sorumlusu sıfatıyla Valenspara Ödeme Kuruluşu A.Ş. **(Valenspara)** tarafından aşağıda açıklandığı kapsamda ve mevzuat tarafından çizilen sınırlar çerçevesinde işlenmektedir. Ancak, Kanunun 6. maddesi kapsamındaki özel nitelikli kişisel veriler Valenspara tarafından hiçbir şekilde işlenmemektedir. 
 
 Kişisel Verilerin İşlenmesi, bu verilerin elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi ifade etmektedir.
 
 #### a) Veri Sorumlusu
 
-Bu aydınlatma metni, 6698 sayılı Kişisel Verilerin Korunması Kanununun 10. maddesi ile Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ kapsamında veri sorumlusu sıfatıyla İşte Pay Ödeme Kuruluşu A.Ş. tarafından hazırlanmıştır. 
+Bu aydınlatma metni, 6698 sayılı Kişisel Verilerin Korunması Kanununun 10. maddesi ile Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ kapsamında veri sorumlusu sıfatıyla Valenspara Ödeme Kuruluşu A.Ş. tarafından hazırlanmıştır. 
 
 #### b) Kişisel Verilerin İşlenme Amacı
 
-İşte Pay tarafından edinilen kişisel veriler aşağıdaki amaçlar doğrultusunda işlenecektir. 
+Valenspara tarafından edinilen kişisel veriler aşağıdaki amaçlar doğrultusunda işlenecektir. 
 
 * Sanal POS ödeme işlemlerinin gerçekleştirilmesi,
 * Sistemin işletilmesi için gerekli hesaplamaların yapılmasına yönelik istatistiki çalışmalar,
-* İşte Pay tarafından yürütülen ticari faaliyetlerin gerçekleştirilmesi için ilgili iş birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş süreçlerinin yürütülmesi,
+* Valenspara tarafından yürütülen ticari faaliyetlerin gerçekleştirilmesi için ilgili iş birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş süreçlerinin yürütülmesi,
 * Banka veya finansal kuruluşlar üzerinden işlem gerçekleştirilmesi, 
 * Üye İşyerinin destek taleplerinin yerine getirilmesi, 
 * MASAK, SPK, BDDK, TCMB gibi idari otoritelerin denetim ve gözetimlerinde bilgi taleplerinin karşılanması,
@@ -35,7 +35,7 @@ Bu aydınlatma metni, 6698 sayılı Kişisel Verilerin Korunması Kanununun 10. 
 
 #### c) İşlenen Kişisel Verilerin Aktarım Yerleri ve Aktarım Amaçları 
 
-İşlenen kişisel veriler, Kanun tarafından öngörülen temel ilkelere uygun olarak, İşte Pay tarafından sunulan hizmetlerin gerektiği gibi yerine getirilmesi amacıyla İşte Pay'in hizmet alımı yaptığı her türlü gerçek ve tüzel kişiye işlemin niteliğinin gerektirdiği asgari düzeyde olmak kaydıyla aktarılabilecektir. Ayrıca, ilgili mevzuat uyarınca kişisel verileri isteme yetkisi olan resmi kurum ve kuruluşlar ile bankalar ve diğer finansal kuruluşlar ile de bilgi paylaşımı yapılabilecektir. 
+İşlenen kişisel veriler, Kanun tarafından öngörülen temel ilkelere uygun olarak, Valenspara tarafından sunulan hizmetlerin gerektiği gibi yerine getirilmesi amacıyla Valenspara'nın hizmet alımı yaptığı her türlü gerçek ve tüzel kişiye işlemin niteliğinin gerektirdiği asgari düzeyde olmak kaydıyla aktarılabilecektir. Ayrıca, ilgili mevzuat uyarınca kişisel verileri isteme yetkisi olan resmi kurum ve kuruluşlar ile bankalar ve diğer finansal kuruluşlar ile de bilgi paylaşımı yapılabilecektir. 
 
 Kişisel veriler, Kanunun 5. maddesinin 2. fıkrasında yer alan ''bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olmak'' hukuki sebebine dayanılarak, alınan dış hizmetin ifası amacıyla aktarılacaktır.
 
@@ -46,7 +46,7 @@ Kişisel veriler,
 * Doğrudan kullanıcıdan, fiziki ortamda temin, 
 * Doğrudan kullanıcıdan, elektronik ortamda temin,
 * Doğrudan kullanıcıdan, sabit veya mobil telefon hizmetleri aracılığıyla temin,
-* İşte Pay tarafından, internet sitesi ve mobil uygulama gibi çevrimiçi uygulamalara girilmesi sırasında elektronik ortamda temin, 
+* Valenspara tarafından, internet sitesi ve mobil uygulama gibi çevrimiçi uygulamalara girilmesi sırasında elektronik ortamda temin, 
 
 yöntemleri ile toplanacak olup, bu yöntemler dışında doğrudan ya da dolaylı herhangi bir kişisel veri temini yapılmayacaktır. 
 
@@ -55,7 +55,7 @@ Kişisel veriler, Kanunun 5. maddesinin 2. fıkrasında yer alan *"bir sözleşm
 
 #### d) Diğer Haklar
 
-Kanunun ilgili kişinin haklarını düzenleyen 11. maddesi kapsamında, İşte Pay ile Üye İşyeri arasında imzalanan sözleşmeler çerçevesinde edinilen kişisel verilerinizin korunması ve işlenmesine ilişkin olarak İşte Pay'a başvurarak kullanabileceğiniz haklar aşağıdaki şekildedir. 
+Kanunun ilgili kişinin haklarını düzenleyen 11. maddesi kapsamında, Valenspara ile Üye İşyeri arasında imzalanan sözleşmeler çerçevesinde edinilen kişisel verilerinizin korunması ve işlenmesine ilişkin olarak Valenspara'ya başvurarak kullanabileceğiniz haklar aşağıdaki şekildedir. 
 
 1. Kişisel veri işlenip işlenmediğini öğrenme,
 2. Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,
@@ -67,7 +67,7 @@ Kanunun ilgili kişinin haklarını düzenleyen 11. maddesi kapsamında, İşte 
 8. İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme
 9. Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme.
 
-Kanunun 11 inci maddesinde belirtilen haklarınız kapsamında taleplerinizi, yazılı olarak veya kayıtlı elektronik posta (KEP) adresi, güvenli elektronik imza veya mobil imza kullanmak suretiyle İşte Pay'a iletebilirsiniz. 
+Kanunun 11 inci maddesinde belirtilen haklarınız kapsamında taleplerinizi, yazılı olarak veya kayıtlı elektronik posta (KEP) adresi, güvenli elektronik imza veya mobil imza kullanmak suretiyle Valenspara'ya iletebilirsiniz. 
 
 Başvurunuzda;
 
@@ -83,35 +83,35 @@ Başvurularınız talebinizin niteliğine göre en kısa sürede ve en geç otuz
 
 Başvurularınız için iletişim adresleri aşağıdaki şekildedir. 
 
-**ŞİRKET ADRESİ :** Huzur Mahallesi Maslak Ayazağa Caddesi Uniq İstanbul Sitesi B Blok No: 4b Sarıyer İSTANBUL
+**ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B Sarıyer İSTANBUL
 
-**KVK E-POSTA ADRESİ :** iletisim@istepay.com
+**KVK E-POSTA ADRESİ :** iletisim@valenspara.com
 
-##### İŞTE PAY ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÖNERİ VE İTİRAZ FORMU İÇİN KVK AYDINLATMA METNİ
+##### VALENSPARA ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÖNERİ VE İTİRAZ FORMU İÇİN KVK AYDINLATMA METNİ
 
 Sayın Başvurucu, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve bağlı mevzuat çerçevesinde, aşağıdaki hususlarda tarafınızın aydınlatılması yükümlülüğümüz bulunmaktadır. Konuya ilişkin haklarınızı tam olarak anlayabilmek ve kullanabilmek için aşağıdaki bilgileri dikkatlice okumanızı tavsiye ederiz. 
 
-6698 sayılı Kişisel Verilerin Korunması Kanunu **(Kanun)** hükümleri ve bağlı mevzuat gereği İşte Pay Ödeme Kuruluşu A.Ş. Öneri ve İtiraz Formu’nun doldurularak tarafımıza iletilmesi yoluyla kişisel bilgileri paylaşılan gerçek kişilere ait kimliği belirli veya belirlenebilir kılan her türlü bilgi, Kişisel Veri olarak nitelendirilmekte ve Veri Sorumlusu sıfatıyla İşte Pay Ödeme Kuruluşu A.Ş. **(İşte Pay)** tarafından aşağıda açıklandığı kapsamda ve mevzuat tarafından çizilen sınırlar çerçevesinde işlenmektedir. Ancak, Kanunun 6. maddesi kapsamındaki özel nitelikli kişisel veriler İşte Pay tarafından hiçbir şekilde işlenmemektedir.
+6698 sayılı Kişisel Verilerin Korunması Kanunu **(Kanun)** hükümleri ve bağlı mevzuat gereği Valenspara Ödeme Kuruluşu A.Ş. Öneri ve İtiraz Formu’nun doldurularak tarafımıza iletilmesi yoluyla kişisel bilgileri paylaşılan gerçek kişilere ait kimliği belirli veya belirlenebilir kılan her türlü bilgi, Kişisel Veri olarak nitelendirilmekte ve Veri Sorumlusu sıfatıyla Valenspara Ödeme Kuruluşu A.Ş. **(Valenspara)** tarafından aşağıda açıklandığı kapsamda ve mevzuat tarafından çizilen sınırlar çerçevesinde işlenmektedir. Ancak, Kanunun 6. maddesi kapsamındaki özel nitelikli kişisel veriler Valenspara tarafından hiçbir şekilde işlenmemektedir.
 
 Kişisel Verilerin İşlenmesi, bu verilerin elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi ifade etmektedir.
 
 #### a) Veri Sorumlusu
 
-Bu aydınlatma metni, 6698 sayılı Kişisel Verilerin Korunması Kanununun 10. maddesi ile Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ kapsamında veri sorumlusu sıfatıyla İşte Pay Ödeme Kuruluşu A.Ş. tarafından hazırlanmıştır. 
+Bu aydınlatma metni, 6698 sayılı Kişisel Verilerin Korunması Kanununun 10. maddesi ile Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ kapsamında veri sorumlusu sıfatıyla Valenspara Ödeme Kuruluşu A.Ş. tarafından hazırlanmıştır. 
 
 #### b) Kişisel Verilerin İşlenme Amacı
 
-İşte Pay tarafından edinilen kişisel veriler aşağıdaki amaçlar doğrultusunda işlenecektir. 
+Valenspara tarafından edinilen kişisel veriler aşağıdaki amaçlar doğrultusunda işlenecektir. 
 
-* İşte Pay tarafından yürütülen ticari faaliyetlerin gerçekleştirilmesi için ilgili iş birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş süreçlerinin yürütülmesi,
-* İşte Pay Ödeme Kuruluşu A.Ş. Öneri ve İtiraz Formu ile iletilen öneri, şikâyet veya sorulara ilişkin taleplerin yerine getirilmesi,
+* Valenspara tarafından yürütülen ticari faaliyetlerin gerçekleştirilmesi için ilgili iş birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş süreçlerinin yürütülmesi,
+* Valenspara Ödeme Kuruluşu A.Ş. Öneri ve İtiraz Formu ile iletilen öneri, şikâyet veya sorulara ilişkin taleplerin yerine getirilmesi,
 * İlgili mevzuat hükümleri gereği akdettiğimiz sözleşmeler uyarınca üstlenilen yükümlülükleri ifa etmek, yasal yükümlülüklerimizi yerine getirebilmek ve yürürlükteki mevzuattan doğan haklarımızı kullanabilmemiz,
 * Mevzuattaki ispat yükünün temini,
 * Doğabilecek uyuşmazlıklarda delil olarak kullanılması,
 
 #### c) İşlenen Kişisel Verilerin Aktarım Yerleri ve Aktarım Amaçları 
 
-İşlenen kişisel veriler, Kanun tarafından öngörülen temel ilkelere uygun olarak, İşte Pay tarafından sunulan hizmetlerin gerektiği gibi yerine getirilmesi amacıyla İşte Pay'in hizmet alımı yaptığı her türlü gerçek ve tüzel kişiye işlemin niteliğinin gerektirdiği asgari düzeyde olmak kaydıyla aktarılabilecektir. Ayrıca, ilgili mevzuat uyarınca kişisel verileri isteme yetkisi olan resmi kurum ve kuruluşlar ile bankalar ve diğer finansal kuruluşlar ile de bilgi paylaşımı yapılabilecektir. 
+İşlenen kişisel veriler, Kanun tarafından öngörülen temel ilkelere uygun olarak, Valenspara tarafından sunulan hizmetlerin gerektiği gibi yerine getirilmesi amacıyla Valenspara'nın hizmet alımı yaptığı her türlü gerçek ve tüzel kişiye işlemin niteliğinin gerektirdiği asgari düzeyde olmak kaydıyla aktarılabilecektir. Ayrıca, ilgili mevzuat uyarınca kişisel verileri isteme yetkisi olan resmi kurum ve kuruluşlar ile bankalar ve diğer finansal kuruluşlar ile de bilgi paylaşımı yapılabilecektir. 
 
 Kişisel veriler, Kanunun 5. maddesinin 2. fıkrasında yer alan *"bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olmak"* hukuki sebebine dayanılarak, alınan dış hizmetin ifası amacıyla aktarılacaktır.
 
@@ -128,7 +128,7 @@ Kişisel veriler, Kanunun 5. maddesinin 2. fıkrasında yer alan *"Veri sorumlus
 
 #### d) Diğer Haklar
 
-Kanunun ilgili kişinin haklarını düzenleyen 11. maddesi kapsamında, Öneri ve Şikayet Formunun tarafımıza iletilmesi çerçevesinde edinilen kişisel verilerinizin korunması ve işlenmesine ilişkin olarak İşte Pay'a başvurarak kullanabileceğiniz haklar aşağıdaki şekildedir. 
+Kanunun ilgili kişinin haklarını düzenleyen 11. maddesi kapsamında, Öneri ve Şikayet Formunun tarafımıza iletilmesi çerçevesinde edinilen kişisel verilerinizin korunması ve işlenmesine ilişkin olarak Valenspara'ya başvurarak kullanabileceğiniz haklar aşağıdaki şekildedir. 
 
 1. Kişisel veri işlenip işlenmediğini öğrenme,
 2. Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,
@@ -140,7 +140,7 @@ Kanunun ilgili kişinin haklarını düzenleyen 11. maddesi kapsamında, Öneri 
 8. İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme,
 9. Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme.
 
-Kanunun 11 inci maddesinde belirtilen haklarınız kapsamında taleplerinizi, yazılı olarak veya kayıtlı elektronik posta (KEP) adresi, güvenli elektronik imza veya mobil imza kullanmak suretiyle İşte Pay'a iletebilirsiniz. 
+Kanunun 11 inci maddesinde belirtilen haklarınız kapsamında taleplerinizi, yazılı olarak veya kayıtlı elektronik posta (KEP) adresi, güvenli elektronik imza veya mobil imza kullanmak suretiyle Valenspara'ya iletebilirsiniz. 
 
 Başvurunuzda;
 
@@ -156,6 +156,6 @@ Başvurularınız talebinizin niteliğine göre en kısa sürede ve en geç otuz
 
 Başvurularınız için iletişim adresleri aşağıdaki şekildedir. 
 
-**ŞİRKET ADRESİ :** Huzur Mahallesi Maslak Ayazağa Caddesi Uniq İstanbul Sitesi B Blok No: 4b Sarıyer İSTANBUL
+**ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B Sarıyer İSTANBUL
 
-**KVK E-POSTA ADRESİ :** iletisim@istepay.com
+**KVK E-POSTA ADRESİ :** iletisim@valenspara.com

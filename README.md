@@ -1,2 +1,2 @@
-# istepay.com
-İşte Pay Web Sitesi
+# valenspara.com
+Valenspara Web Sitesi
