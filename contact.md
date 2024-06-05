@@ -26,7 +26,7 @@ contact:
 tax: Sarıyer V.D. No:4821179167
 identity: 282174-5
 mersis: 0482117916700001
-kep: iste.pay@hs01.kep.tr
+kep: valenspara@hs01.kep.tr
 
 tcmb:
   title: Türkiye Cumhuriyeti Merkez Bankası (TCMB)
