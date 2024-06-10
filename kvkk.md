@@ -83,7 +83,7 @@ Başvurularınız talebinizin niteliğine göre en kısa sürede ve en geç otuz
 
 Başvurularınız için iletişim adresleri aşağıdaki şekildedir. 
 
-**ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B Sarıyer İSTANBUL
+**ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B 34467 Sarıyer İSTANBUL
 
 **KVK E-POSTA ADRESİ :** iletisim@valenspara.com
 
@@ -156,6 +156,6 @@ Başvurularınız talebinizin niteliğine göre en kısa sürede ve en geç otuz
 
 Başvurularınız için iletişim adresleri aşağıdaki şekildedir. 
 
-**ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B Sarıyer İSTANBUL
+**ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B 34467 Sarıyer İSTANBUL
 
 **KVK E-POSTA ADRESİ :** iletisim@valenspara.com
