@@ -13,7 +13,7 @@ contact:
        - line: Reşitpaşa Mah. Katar Cad.
        - line: Arı Teknokent 3 Binası No:4
        - line: İç Kapı No:<span> 402 / B
-       - line: Sarıyer/İstanbul
+       - line: 34467 Sarıyer/İstanbul
     # - title: Yedek Veri Merkezi, İzmir
     #   phone: +90 (232) 504 11 65
     #   fax: +90 232 504 11 65
