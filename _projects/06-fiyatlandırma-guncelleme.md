@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title: 26.06.2024 - Fiyatlandırma Bildirisi
+title: 26.06.2024 - Fiyatlandırma Güncelleme Bildirisi
 project_date: 26.06.2024 14:03
 project_type:
     - Fiyatlandırma Güncellemesi
