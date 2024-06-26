@@ -6,19 +6,19 @@ permalink: /fees/
 
 ##### Kurulum
 
-Üye işyerlerinden başlangıç ücreti alınmaz.
+Üye iş yerlerinden başlangıç ücreti alınmaz.
 
 ##### Üyelik
 
 Ödeme platformu kullanımı ile ilgili doğrudan veya örtülü hiçbir ücret talep edilmez.
 
-##### Komisyon Fiyatlandırması
+##### Ücret ve Komisyonlar
 
-Ödeme platformunun gelir modeli komisyon geliri üzerine kurulmuştur. Başarılı işlem başına işlemin belirli bir yüzdesi ve sabit ücreti olarak kesinti yapılır. İşlem üzerinden işlemin belirli bir yüzdesi ve sabit işlem ücreti olarak kesinti yapılır.
+Ödeme platformunun gelir modeli, işlemler üzerinden alınan komisyon ve sabit işlem ücreti üzerine kurulmuştur. Başarılı işlem başına sabit bir ücret ve işlem tutarının belirli bir yüzdesi komisyon olarak işlem tutarından kesilir.
 
 Ücretlendirme tarifesi*:
 
-- Komisyon Oranı: Yüzde 2.25
+- Komisyon Oranı: Yüzde 3.75
 - Sabit İşlem Ücreti: 0.25 TL
 
-*Bilgilendirme: Üye işyeri ile yapılan sözleşme neticesinde, sektörel risk, kurumun finansal sağlığı, gerçekleşen veya taahhüt edilen işlem hacmi gibi metrikler değerlendiriliğinde, uygulanan oranlar artı veya eksi yönde farklı olabilir.
+*Bilgilendirme: Ücret ve komisyonlar üye işyeri ile yapılan sözleşmede, taahhüt edilen işlem hacmi, sektör ve firmaya özel bazı diğer metrikler değerlendirilerek belirlenir.
