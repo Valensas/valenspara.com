@@ -1,0 +1,265 @@
+.team-member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  flex-wrap: wrap;
+}
+
+.team-member .col-md-3 {
+  flex: 0 0 270px;
+  max-width: 270px;
+  display: flex;
+  justify-content: center;
+}
+
+.team-member img {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
+
+.team-member .details {
+  margin-left: 20px;
+  flex: 1;
+}
+
+.team-member .details h3 {
+  font-size: 2rem;
+  color: #2c3e50;
+  margin: 0;
+}
+
+.team-member .details h4 {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: gray;
+}
+
+.team-member p {
+  margin-top: 15px;
+  line-height: 1.6;
+}
+
+.activity-reports {
+  margin-top: 50px;
+}
+
+.activity-reports .section-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.report-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.report-item {
+  display: flex;
+  align-items: center;
+  background: #f8f8f8;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.report-icon img {
+  border-radius: 5px;
+}
+
+.report-details {
+  flex: 1;
+  margin-left: 15px;
+}
+
+  .report-details .report-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #2c3e50;
+}
+
+.company-info .report-action .download-button,
+.activity-reports .report-action .download-button {
+  background: #0077C8; /* Varsayılan arka plan */
+  color: #fff; /* Varsayılan metin rengi */
+  border: 2px solid #A3A9B9; /* Varsayılan kenar */
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: background 0.3s ease, border 0.3s ease;
+  outline: none; /* Varsayılan outline kaldır */
+  text-decoration: none; /* Alt çizgi kaldır */
+}
+
+company-info .report-action .download-button:hover,
+activity-reports .report-action .download-button:hover {
+  background: #005A9C; /* Hover durumu */
+  border: 2px solid #0077C8;
+  color: #fff;
+}
+
+company-info .report-action .download-button:focus,
+company-info .report-action .download-button:active,
+activity-reports .report-action .download-button:focus,
+activity-reports .report-action .download-button:active {
+  background: #0077C8; /* Aktif ve ziyaret edilmiş renk */
+  color: #fff; /* Metin rengi aynı kalır */
+  border: 2px solid #A3A9B9; /* Kenar rengi aynı kalır */
+  outline: none; /* Focus outline kaldır */
+  box-shadow: none; /* Ek bir gölge olmadan */
+}
+.company-info p {
+  margin-bottom: 0.3rem;
+  line-height: 1.5;
+}
+
+
+.download-button img {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 768px) {
+  .team-member {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .team-member .col-md-3 {
+    flex: 0 0 auto;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .team-member img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+
+  .team-member .details {
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
+/* Tablet ve iPhone Landscape (768px - 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .team-member {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .team-member .col-md-3 {
+    flex: 0 0 auto;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .team-member img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .team-member .details {
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .team-member {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .team-member .col-md-3 {
+    max-width: 25%;
+    flex: 0 0 25%;
+    margin-bottom: 0;
+  }
+
+  .team-member img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .team-member .details {
+    margin-left: 20px;
+    text-align: left;
+  }
+}
+
+@media (min-width: 430px) and (max-width: 767px) {
+  .team-member img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .team-member .details h3 {
+    font-size: 1.5rem;
+  }
+
+  .team-member .details h4 {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 812px) and (max-width: 1199px) and (orientation: landscape) {
+  .container {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .team-member {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .team-member .col-md-3 {
+    flex: 0 0 180px;
+    max-width: 180px;
+    margin-right: 20px;
+  }
+
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  .team-member .details {
+    margin-left: 10px;
+    flex: 1;
+  }
+
+  .team-member .details h3,
+  .team-member .details h4,
+  .team-member p {
+    text-align: left; /* Metni sola hizala */
+    margin: 5px 0;
+  }
+}
+
+@media (max-height: 430px) {
+  .team-member img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .team-member .details {
+    text-align: center;
+  }
+}

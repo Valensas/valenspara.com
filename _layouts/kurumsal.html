@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+<section class="container terms__single my-lg-5 py-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="mb-5">{{ page.title }}</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for member in page.team %}
+        <div class="team-member row align-items-center mb-4">
+            <div class="col-md-3 text-center">
+                {% assign image_path = member.image | prepend: site.baseurl %}
+                <img
+                        src="{{ image_path }}"
+                        alt="{{ member.name }}"
+                        class="rounded-circle img-fluid"
+                        onerror="this.onerror=null; this.src='{{ site.baseurl }}/img/placeholder-avatar.png';">
+            </div>
+            <div class="col-md-9">
+                <h3>{{ member.name }}</h3>
+                <h4 class="text-muted">{{ member.role }}</h4>
+                <p>{{ member.bio }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <section class="company-info container my-5">
+        <h3 class="mb-4">Şirket Pay Sahibi</h3>
+            {% for item in page.company_info.pay_sahibi %}
+            <p>{{ item }}</p>
+            {% endfor %}
+
+        <h3 class="mb-4 mt-5">Şirket Bilgileri</h3>
+            {% for item in page.company_info.sirket_bilgileri %}
+            <p>{{ item }}</p>
+            {% endfor %}
+    </section>
+
+    <section class="company-info container py-3 mt-5">
+        <div class="report-item d-flex align-items-center mb-3 p-3">
+            <div class="report-icon">
+                <img src="{{ site.baseurl }}/img/pdf-icon.png" alt="PDF Icon" style="width: 50px; height: 50px;">
+            </div>
+            <div class="report-details flex-grow-1 mx-3">
+                <span class="report-title">{{ page.company_info_link_title }}</span>
+            </div>
+            <div class="report-action">
+                <a href="{{ page.company_info_file }}" target="_blank" class="download-button btn btn-success">
+                    İndir <span>&#x21E9;</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="activity-reports container py-3 mt-5">
+        <h2 class="section-title">{{page.reports_title_1}}</h2>
+        <div class="report-list">
+            {% for report in page.reports_1 %}
+            <div class="report-item d-flex align-items-center mb-3 p-3">
+                <div class="report-icon">
+                    <img src="{{ site.baseurl }}/img/pdf-icon.png" alt="PDF Icon" style="width: 50px; height: 50px;">
+                </div>
+                <div class="report-details flex-grow-1 mx-3">
+                    <span class="report-title">{{ report.title }}</span>
+                </div>
+                <div class="report-action">
+                    <a href="{{ report.file }}" target="_blank" class="download-button btn btn-success">
+                        İndir <span>&#x21E9;</span>
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+
+    <section class="activity-reports container py-3 mt-5">
+        <h2 class="section-title">{{page.reports_title_2}}</h2>
+        <div class="report-list">
+            {% for report in page.reports_2 %}
+            <div class="report-item d-flex align-items-center mb-3 p-3">
+                <div class="report-icon">
+                    <img src="{{ site.baseurl }}/img/pdf-icon.png" alt="PDF Icon" style="width: 50px; height: 50px;">
+                </div>
+                <div class="report-details flex-grow-1 mx-3">
+                    <span class="report-title">{{ report.title }}</span>
+                </div>
+                <div class="report-action">
+                    <a href="{{ report.file }}" target="_blank" class="download-button btn btn-success">
+                        İndir <span>&#x21E9;</span>
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+</section>

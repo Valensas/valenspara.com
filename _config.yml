@@ -53,6 +53,8 @@ footer_navigation_2:
       link: /fees/
     - text: İletişim
       link: /contact/
+    - text: Kurumsal Yönetim
+      link: /kurumsal/
 
 collections:
   projects:
