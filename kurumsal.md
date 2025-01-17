@@ -31,16 +31,16 @@ team:
 reports_title_1: Faaliyet Raporları
 reports_1:
   - title: 2022 Faaliyet Raporu
-    file: /files/İŞTEPAY-2022 YILLIK FAALİYET RAPORU.pdf
+    file: /files/VALENSPARA_2022_YILLIK_FAALIYET_RAPORU.pdf
   - title: 2023 Faaliyet Raporu
-    file: /files/İŞTEPAY 2023 YILLIK FAALİYET RAPORU.pdf
+    file: /files/VALENSPARA_2023_YILLIK_FAALIYET_RAPORU.pdf
 
 reports_title_2: Bağımsız Denetim Raporları
 reports_2:
   - title: 2022 Bağımsız Denetim Raporu
-    file: /files/İşte Pay Ödeme Kuruluşu A.Ş. 31.12.2022 Finansal Tablolar ve Bağımsız Denetçi Raporu.pdf
+    file: /files/VALENSPARA_2022_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
   - title: 2023 Bağımsız Denetim Raporu
-    file: /files/İşte Pay Ödeme Kuruluşu A.Ş. 31.12.2023 Finansal Tablolar ve Bağımsız Denetçi Raporu.pdf
+    file: /files/VALENSPARA_2023_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
 
 company_info:
   pay_sahibi:
@@ -61,7 +61,7 @@ company_info:
     - "Yönetim Kurulu:"
     - "Yönetim Kurulu Başkanı: Bilge ALGÜL İDİL"
     - "Yönetim Kurulu Başkan Yardımcısı: Akın İDİL"
-    - "Yönetim Kurulu Üyesi: Önder PERÇİN"
+    - "Yönetim Kurulu Üyesi: Av. Dr. Dr. Önder PERÇİN"
     - "Genel Müdür: Bilge ALGÜL İDİL"
     - "Denetçi: Aksis Uluslararası Bağımsız Denetim A.Ş."
     - "Denetçinin Adresi: Kaptanpaşa Mahallesi Piyalepaşa Bulvarı Ortadoğu Plaza No:73 Kat:11 Şişli/İstanbul"
@@ -69,5 +69,5 @@ company_info:
 
 
 company_info_link_title: Şirket Bilgileri
-company_info_file: /files/Şirket Bilgileri.pdf
+company_info_file: /files/SIRKET_BILGILERI.pdf
 ---
