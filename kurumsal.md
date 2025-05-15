@@ -3,37 +3,44 @@ layout: kurumsal
 title: KURUMSAL YÖNETİM
 permalink: /kurumsal/
 team:
-  - name: Bilge ALGÜL İDİL
-    role: Yönetim Kurulu Başkanı ve Genel Müdür
-    image: /img/bilge-algul.jpg
-    bio: Bilge Algül İdil,  İstanbul Üniversitesi İşletme Eğitiminden sonra sırasıyla NYU Business ve Harvard MIS eğtimlerini tamamladı. İş hayatına İş Analisti olarak başladı ve sonrasında 2005 yılında Türkiye’nin ilk mobil uygulama çözümleri şirketlerinden olan ve uçtan uca özellikle finansal teknolojiler alanında uzmanlaşmış bir Akın İdil ile birlikte Ar-Ge Yazılım Firması Valensas Teknoloji Hizmetleri A.Ş.’yi kurdu. 2011-2017 yıllarında VDPMAG Technology Solutions LLC (New York, NY) YK Başkanı, 2015-2019 yıllarında Eckle Partners Inc. (Santa Barbara, CA) YK Başkanı, 2020-2023 arasında  Bitronit Yüksek Teknoloji (İstanbul) YK Başkanı olarak görev aldı. 2020 yılından itibaren Kurucu ortağı olduğu Valenspara Ödeme Kuruluşu A. bünyesinde Yönetim Kurulu Başkanı ve Genel Müdür görevlerini yürütüyor. Daha önceki iş deneyimlerinde Apple ve Microsoft sertifikaların sahip olup Türkiye’nin önde gelen kurumlarını yazılım çözümlerine katkı sağlamıştır. İyi seviyede İngilizce bilmekte olup, evli ve bir çocuk annesidir.
+  - name: Malek Khodr TEMSAH
+    role: Yönetim Kurulu Başkanı
+    image: /img/malek-khodr-temsah.jpg
+    bio: Lisans eğitimini 2003’te George Washington Üniversitesi İşletme Bölümü’nde, yüksek lisans eğitimini 2006’da Thunderbird, the Garvin School of International Management’ta İşletme alanında tamamladı. Profesyonel kariyerine 2003 yılında, Bank of America’da başladı ve ardından 2007- 2009 yılları arasında Londra merkezli European Islamic Investment Bank’ta devam etti. 2010 yılı itibarıyla Al Baraka Group’a katılan Temsah, 2014 yılına kadar kuruculuğunu üstlendiği sukuk masasında global sukuk portföyünden sorumlu olarak görevini sürdürdü. 2017 – 2020 yılları arasında BTI Bank’ta (Fas) Yönetim Kurulu ve Denetim Komitesi üyesi olarak görev yaptı. 2014 yılında Albaraka Türk Katılım Bankası Anonim Şirketi’ne katılan Temsah, 2017 -2022 yılları arasında Hazine, Finansal Kurumlar ve Yatırım Bankacılığı Birimlerinden sorumlu Genel Müdür Yardımcısı olarak, Ekim 2021 ile Ağustos 2022 arasında belirtilen mezkûr görevinin yanında Genel Müdür Vekili olarak görev yaptı. Ağustos 2022 itibariyle Albaraka Türk Katılım Bankası Anonim Şirketi’nde Genel Müdür olarak görevini sürdürmektedir.
     
-  - name: Akın İDİL
-    role: Yönetim Kurulu Başkan Yardımcısı
-    image: /img/akin-idil.jpg
-    bio: Akın İdil, Almanya’da başlayan eğitim hayatını Eskişehir Elektrik - Elektronik ile devam etti. Güvenlik ve uygulama geliştirme konularında Cisco, Microsoft, Apple gibi firmaların sertifikalarına sahip eğitmen olarak eğitimler verdi. Özellikle Mobil çözümler konusunda hem donanım hem de yazılım çözümlerinde sektörde 20 yıldan fazla deneyimi sahip olduğu patentler ile pekiştirdi.  Bu süreçte 2005 yılında Bilge Algül İdil ile birlikte Valensas Teknoloji Hizmetleri A.Ş.’yi kurdu.  Aynı zamanda yine Bitronit Yüksek Teknoloji A.Ş.’nin satışından sonra  Blockchain ekosisteminde NFT ve Dijital Varlık Saklama çözümlerini Tübitak desteği ile hayata geçirdi. Valenspara’da Yönetim Kurulu Başkan Yardımcısı olarak görev alıyor. İngilizce, Almanca ve Tatarca bilmekte olup, evli ve bir çocuk babasıdır.
-
-  - name: Av. Dr. Dr. Önder PERÇİN
+  - name: Turgut SİMİTCİOĞLU
+    role: Yönetim Kurulu Başkan Vekili
+    image: /img/turgut-simitcioglu.jpg
+    bio: Lisans eğitimini 1989 yılında Suudi Arabistan’da, Kral Suud Üniversitesi Eğitim Fakültesi’nde, yüksek lisans eğitimini Fatih Üniversitesi Sosyal Bilimler Enstitüsü’nde İşletme alanında tamamladı. Profesyonel kariyerine 1990 yılında Albaraka Türk Katılım Bankası Anonim Şirketi’nde başlayan Simitcioğlu, 1990-1995 arasında bankanın Fon Kullanma Müdürlüğü’nde, 1995- 2001 arasında Merkez Şube’de çalıştı. 2001-2003 arasında önce Merkez Şube’de daha sonra da Kurumsal Bankacılık Müdürlüğü’nde Yönetmen olarak, 2003-2009 arasında Merkez Şube Müdürü olarak görev yaptı. Aralık 2009’da bankanın Genel Müdür Yardımcılığı’na atanan Simitcioğlu, “Krediler Operasyon”, “Dış İşlemler Operasyon”, “Ödeme Sistemleri Operasyon”, “Bankacılık Hizmetleri Operasyon” ve “Risk Takip”ten Sorumlu Genel Müdür Yardımcısı görevini yürüttü. Ocak 2017’de İş Kollarından Sorumlu Genel Müdür Başyardımcılığı görevini üstlenen Simitcioğlu, 2018 ile 2022 yılları arasında Kredi Risklerinden Sorumlu Genel Müdür Başyardımcısı unvanıyla görev yaptı. Aralık 2022’den itibaren Albaraka Türk Katılım Bankası Anonim Şirketi’nde Genel Müdür Başyardımcısı olarak görevini sürdürmektedir.
+    
+  - name: Yasemin AYDIN
     role: Yönetim Kurulu Üyesi
-    image: /img/onder-percin.png
-    bio: Av. Dr. Dr. Önder Perçin, Ankara Üniversitesi Hukuk Fakültesi mezunu olup BDDK’da Uzman Yardımcısı ve Avukat olarak görev almıştır. Akademik çalışmaları ile sektör deneyimini birleştirerek   TODAİE bünyesinde Yüksek Lisans ve Doktora derecesine ve Amerika Birleşik Devletleri Kaliforniya - Berkeley Üniversitesinden de Hukuk Yüksek Lisansı ile Ankara Üniversitesi Hukuk Doktorasına sahiptir.  İki Yüksek Lisans ve iki Doktora derecesine sahip olup, yerli ve yabancı yüksek lisans öğrencilerine dersler vermektedir. Akademik çalışmalarında Ekonomi Hukuku alanına ağırlık vermekte olup, bu kapsamda özellikle BDDK, Rekabet Kurumu gibi üst kurulların görev alanları ile bu alanların hukuk ile etkileşimine ilişkin müteaddit kongre bildirileri, makale ve kitapları bulunmaktadır. Halen, Ankara Barosuna kayıtlı olarak serbest avukatlık ve bilirkişilik yapmaktadır. İleri derece İngilizce bilmektedir ve evlidir.
+    image: /img/yasemin-aydin.jpg
+    bio: İstanbul Üniversitesi Siyasal Bilgiler Fakültesi Maliye Bölümü lisans, MBA; İstanbul Bilgi Üniversitesi Pazarlama İletişimi ve Organizasyonel Psikoloji yüksek lisans mezunu olan Aydın, profesyonel kariyerine 1996 yılında bankacılık sektöründe başladı. 1996-2011 yıllarında bu sektörde dijital bankacılık, kartlı ödeme sistemleri, bireysel bankacılık, ürün geliştirme, organizasyon, süreç gibi alanlarda pazarlama, operasyon, bilgi teknolojileri iş kollarında sistem analisti, proje yöneticisi, birim müdürü gibi farklı rollerde çalıştı. 2012-2017 yılları arasında çeşitli sektörlerde yeniden yapılanma, süreç geliştirme, dijitalleşme gibi konularda danışmanlık projeleri ve insan kaynakları alanında seçme ve değerlendirme faaliyetlerini yönetti. 2017 yılında Dijital Kanallar ve Ödeme Sistemleri Geliştirme Müdürü olarak Albaraka Türk Katılım Bankası Anonim Şirketi’nde çalışmaya başladı. Temmuz 2020’de aynı bankada Direktör olarak atandı ve “Dijital Kanallar ve Ödeme Sistemleri Geliştirme”, “Ödeme Sistemleri Operasyon” ve “Çağrı Merkezi” müdürlüklerinin sorumluluğunu üstlendi. Aralık 2022'den itibaren Albaraka Türk Katılım Bankası Anonim Şirketi’nde Bilgi Teknolojileri ve Dijital Kanallar Geliştirme’den Sorumlu Genel Müdür Yardımcısı olarak görevine devam etmektedir. Aynı zamanda Insha Ventures Teknoloji Geliştirme ve Pazarlama A. Ş. (insha Ventures) ve Albaraka Teknoloji Bilişim Sistemleri ve Pazarlama Ticaret A.Ş.’de (Albaraka Tech Global) Yönetim Kurulu Üyesi olarak görev yapmaktadır.
 
-  - name: Zehra AKSOY
-    role: İç Kontrol Direktörü
-    image: /img/zehra-aksoy.jpg
-    bio: Zehra Aksoy, Marmara Üniversitesi'nde İnovasyon ve Girişimcilik Ekonomisi alanında yüksek lisans derecesine sahip olup kariyerinde, 2020'den bu yana fintek ürünlerinin iş modellerini geliştirme, gelir ve müşteri büyümesini sağlama, POS çözümlerinde liderliğiyle öne çıkmıştır. Dijital bankacılık, ödeme sistemleri ve fintek ürünlerini içinde barındıran bankacılık ekosisteminde 10 yılı aşkın deneyimiyle satış, büyüme ve operasyon süreçlerinde uzmanlaşmıştır. Uluslararası ticaret sektöründe de deneyimi bulunan Aksoy, ayrıca açık bankacılık ve fintek ekosisteminde yenilikçi çözümler geliştirme yetkinlikleriyle öne çıkmaktadır. Valenspara Ödeme Kuruluşu A.Ş. bünyesinde İç Kontrol Direktörü olarak görev yapan Aksoy iş yaşamının yanı sıra, stratejik planlama ve iş modeli geliştirme alanlarında aktif olarak rol almaktadır. İngilizce’yi ileri seviyede konuşmakta olan Aksoy, evli ve 2 çocuk annesidir.
-  
-  - name: Mustafa KOÇOĞLU
+  - name: Bilge ALGÜL İDİL
+    role: Genel Müdür / Yönetim Kurulu Üyesi
+    image: /img/bilge-algul-idil.jpeg
+    bio: İstanbul Üniversitesi İşletme Eğitiminden sonra NYU Business’ta Araştırma Asistanı olarak çalıştı ve Sidney'deki konferansta sunulan “The Impact of Currency Volatility and Hedging on the International Investment Decisions” konulu araştırmayı yürüttü. Sonrasında Harvard Extension School’da İşletme & Yönetim Lisans Üstü programında MIS eğitimini tamamladı. İş Analisti olarak başlayan iş hayatı 2005 yılında Akın İdil ile birlikte kurduğu Türkiye’nin ilk mobil uygulama çözümleri şirketlerinden olan Valensas Teknoloji Hizmetleri A.Ş. bünyesinde Genel Müdür olarak devam etti. Bu süreçte 2011-2017 yıllarında VDPMAG Technology Solutions LLC (New York, NY - Dijital Dergi Platformu) YK Başkanı, 2015-2019 yıllarında Eckle Partners Inc. (Santa Barbara, CA - Sosyal Medya destekli P2P Ödeme Çözümü) YK Başkanı, 2020-2023 arasında satışı gerçekleştirilen Bitronit Yüksek Teknoloji (İstanbul - Kripto Varlık Hizmet Sağlayıcı) YK Başkanı olarak ek görevleri oldu. Uçtan uca finansal teknolojiler alanında uzmanlaşmış olan Valensas’ta Genel Müdürlük görevine devam ederken 2020 yılından itibaren kurucu ortağı olduğu Valenspara Ödeme Kuruluşu A.Ş. bünyesinde Yönetim Kurulu Başkanı ve Genel Müdürlük görevlerini yürüttü. İyi seviyede İngilizce bilmekte olup, evli ve bir çocuk annesidir.
+
+  - name: Hasan GÖLPINAR
     role: Risk ve Uyum Direktörü
-    image: /img/mustafa-kocoglu.jpg
-    bio: Mustafa Koçoğlu, eğitim hayatını 2006 yılında Uludağ Üniversitesi İktisadi ve İdari Bilimler Fakültesi Maliye bölümünden mezun olarak tamamlamış; bankacılık ekosisteminde operasyon ve finans yönetimi alanında 15 yılı aşkın tecrübesiyle ürün yönetimi, proje yönetimi ve finansal strateji geliştirme konularında uzmanlaşmıştır. 2021-2024 yılları arasında finansal teknolojiler alanında operasyon ve finans direktörü olarak görev yapan Koçoğlu, sermaye yönetimi, nakit akışı planlaması ve iç-dış denetim süreçlerinin yönetiminde liderlik etmiştir. Bu dönemde fintek projelerine katkı sağlayarak, finansal süreçlerin dijital dönüşümünü gerçekleştirmiş ve ekip yönetiminde etkin bir rol oynamıştır. Valenspara Ödeme Kuruluşu A.Ş. bünyesinde Risk ve Uyum Direktörü olarak görev yapan Koçoğlu iyi seviyede ingilizce bilmekte olup, evli ve 2 çocuk babasıdır.
-  
+    image: /img/hasan-golpinar.jpg
+    bio: 2008 yılında Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi İktisat bölümünden mezun olmuş ve 2024 yılında Altınbaş Üniversitesi Yüksek Öğrenim Fakültesi Endüstri Mühendisliği Yüksek lisansını tamamlamıştır. Albaraka Türk Katılım Bankası'nda Denetçi Yardımcısı olarak çalışmaya başlamış ve altı senelik denetim tecrübesinin ardından yine Albaraka Türk Katılım Bankası şubelerinde Portföy Yöneticiliği yapmıştır. 2021 ve 2024 yılları arasında Albaraka Portföy Yönetimi A.Ş.'de İç Sistemlerden sorumlu müfettiş olarak kariyerine devam etmiştir. Valenspara Ödeme Kuruluşu A.Ş. bünyesinde Risk ve Uyum Direktörü olarak görev yapan Hasan Gölpınar iyi seviyede ingilizce bilmekte olup, evlidir.
+ 
+  - name: Ahmet Uygur KIRKEVLER
+    role: İç Kontrol Direktörü
+    image: /img/ahmet-uygur-kirkevler.jpg
+    bio: Şişli Terakki Lisesi ve İstanbul Üniversitesi İktisat Fakültesi’ni bitirdikten sonra bankacılık ve finans sektöründe Toprakbank A.Ş. Teftiş Kurulu Başkanlığı’nda müfettiş yardımcısı olarak çalışmaya başlamıştır. Bu bankada sırasıyla yetkili müfettiş yardımcılığı ve müfettişlik görevlerinde bulunmuş olup 2003 yılında Albaraka Türk Katılım Bankası A.Ş. İç Kontrol Başkanlığı bünyesinde denetçi olarak çalışmaya başlamış ve 2011 – 2018 yılları arasında İç Kontrol Başkan Yardımcısı olarak görev almıştır. Yaklaşık 20 yıl iç denetim ve iç kontrol alanlarında her seviyede görev yaptıktan sonra, 2018 – 2025 yılları arasında Albaraka Türk Katılım Bankası A.Ş.’de başta kişisel veriler mevzuatı olmak üzere, veri yönetimi, veri kalitesi, veri gizliliği ve veri analitiği alanlarında yöneticilik yapmıştır. Aynı dönemde bankanın Bilgi Paylaşım Komitesi Başkanlığı görevini sürdürmüştür. Bankacılık sektöründe 26 yıllık tecrübeye sahip olan Kırkevler, iç denetim, iç kontrol, yöneticilik, merkezden ve uzaktan ekip yönetimi, raporlama, analiz ve eğitim alanlarında uzmanlaşmıştır. Valenspara Ödeme Kuruluşu A.Ş. bünyesinde İç Kontrol Direktörü olarak görev yapan Kırkevler iki çocuk babası olup, İngilizce bilmektedir.
+
 reports_title_1: Faaliyet Raporları
 reports_1:
   - title: 2022 Faaliyet Raporu
     file: /files/VALENSPARA_2022_YILLIK_FAALIYET_RAPORU.pdf
   - title: 2023 Faaliyet Raporu
     file: /files/VALENSPARA_2023_YILLIK_FAALIYET_RAPORU.pdf
+  - title: 2024 Faaliyet Raporu
+    file: /files/VALENSPARA_2024_YILLIK_FAALIYET_RAPORU.pdf
 
 reports_title_2: Bağımsız Denetim Raporları
 reports_2:
@@ -41,12 +48,15 @@ reports_2:
     file: /files/VALENSPARA_2022_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
   - title: 2023 Bağımsız Denetim Raporu
     file: /files/VALENSPARA_2023_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
+  - title: 2024 Bağımsız Denetim Raporu
+    file: /files/VALENSPARA_2024_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
 
 company_info:
   pay_sahibi:
-    - "%50 Bilge ALGÜL İDİL"
-    - "%50 Akın İDİL"
-    - "Ödenmiş Sermaye Tutarı: 72.000.000,00 ₺"
+    - "%90,01 Albaraka Portföy Yönetimi A.Ş. İnsha GSYF"
+    - "% 4,995 Akın İDİL"
+    - "% 4,995 Bilge ALGÜL İDİL"
+    - "Taahhüt Edilen ve Ödenen Sermaye Tutarı: 202.000.000,00 ₺"
   sirket_bilgileri:
     - "Ticaret Unvanı: Valenspara Ödeme Kuruluşu A.Ş."
     - "Mersis Numarası: 0482117916700001"
@@ -55,13 +65,14 @@ company_info:
     - "Adres: İstanbul Teknik Üniversitesi ARI Teknokent 3 Binası Katar Caddesi No:4 İç kapı No: B402 34467 Sarıyer/İstanbul"
     - "Elektronik Posta Adresi: info@valenspara.com"
     - "KEP Adresi: valenspara@hs01.kep.tr"
-    - "Taahhüt Edilen ve Ödenen Sermaye Tutarı: 72.000.000 TL. Tamamı ödenmiştir."
+    - "Taahhüt Edilen ve Ödenen Sermaye Tutarı: 202.000.000,00 ₺"
     - "Vergi Dairesi: Sarıyer"
     - "Vergi No: 4821179167"
     - "Yönetim Kurulu:"
-    - "Yönetim Kurulu Başkanı: Bilge ALGÜL İDİL"
-    - "Yönetim Kurulu Başkan Yardımcısı: Akın İDİL"
-    - "Yönetim Kurulu Üyesi: Av. Dr. Dr. Önder PERÇİN"
+    - "Yönetim Kurulu Başkanı: Malek Khodr TEMSAH"
+    - "Yönetim Kurulu Başkan Vekili: Turgut SİMİTCİOĞLU"
+    - "Yönetim Kurulu Üyesi: Yasemin AYDIN"
+    - "Yönetim Kurulu Üyesi: Bilge ALGÜL İDİL"
     - "Genel Müdür: Bilge ALGÜL İDİL"
     - "Denetçi: Aksis Uluslararası Bağımsız Denetim A.Ş."
     - "Denetçinin Adresi: Kaptanpaşa Mahallesi Piyalepaşa Bulvarı Ortadoğu Plaza No:73 Kat:11 Şişli/İstanbul"
