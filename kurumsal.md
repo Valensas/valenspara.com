@@ -79,7 +79,7 @@ company_info:
     - "Yönetim Kurulu Başkan Vekili: Turgut SİMİTCİOĞLU"
     - "Yönetim Kurulu Üyesi: Yasemin AYDIN"
     - "Yönetim Kurulu Üyesi: Bilge ALGÜL İDİL"
-    - "Genel Müdür: Bilge ALGÜL İDİL"
+    - "Genel Müdür: Dr. Osman Okyar TAHAOĞLU"
     - "Denetçi: Aksis Uluslararası Bağımsız Denetim A.Ş."
     - "Denetçinin Adresi: Kaptanpaşa Mahallesi Piyalepaşa Bulvarı Ortadoğu Plaza No:73 Kat:11 Şişli/İstanbul"
     - "İnternet Yer Sağlayıcı: İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri AŞ "
