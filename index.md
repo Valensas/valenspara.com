@@ -23,7 +23,8 @@ hero_slider:
 creative_title_highlight: Valenspara
 creative_title_main: Ödeme Kuruluşu
 creative_subtitle: Hemen Güvenli Ödeme Almaya Başlayın </br> </br>
-                    Valenspara Ödeme Kuruluşu Kuruluşu A.Ş., 6493 sayılı Ödeme Ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri Ve Elektronik Para Kuruluşları Hakkında Kanun’a uyumlu olarak 28 Eylül 2023 tarihi itibarı ile Türkiye Cumhuriyeti Merkez Bankası lisanslı ödeme kuruluşudur.
+                    Valenspara Ödeme Kuruluşu Kuruluşu A.Ş., 6493 sayılı Ödeme Ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri Ve Elektronik Para Kuruluşları Hakkında Kanun’a uyumlu olarak 28 Eylül 2023 tarihi itibarı ile Türkiye Cumhuriyeti Merkez Bankası lisanslı ödeme kuruluşudur. </br> </br>
+                    Katılım bankacılığının öncüsü Albaraka Türk Katılım Bankası, Valenspara Ödeme Kuruluşu A.Ş.’nin hakim ortağı olmasıyla, TCMB lisanslı bir ödeme kuruluşunu ekosistemine dahil eden Türkiye’nin ilk ve tek katılım bankası olmuştur.
 
 creative_features:
     - title: Hızlı ve Güvenli Ödeme
