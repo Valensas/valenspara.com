@@ -6,6 +6,7 @@ project_type:
     - Rekabet Kurumu Kararı
 ---
 
-Karar Sayısı : 25-13/309-147  
-Karar Tarihi : 27.3.2025      
+Karar Sayısı : 25-13/309-147
+Karar Tarihi : 27.3.2025
+
 Valenspara Ödeme Kuruluşu AŞ’nin çoğunluk hisselerinin Albaraka Türk Katılım Bankası AŞ’nin tek kontrolünde bulunan Albaraka Portföy Yönetimi AŞ İnsha Girişim Sermayesi Yatırım Fonu tarafından devralınması işlemine izin verildi.
