@@ -28,11 +28,6 @@ team:
     image: /img/osman-okyar-tahaoglu.jpg
     bio: 1998 yılında Dokuz Eylül Üniversitesi Elektrik-Elektronik Mühendisliği bölümünden lisans derecesiyle mezun olmuştur. 2001 yılında İzmir Yüksek Teknoloji Enstitüsü’nde Bilgisayar Yazılımı alanında yüksek lisansını, 2009 yılında ise Dokuz Eylül Üniversitesi Bilgisayar Mühendisliği bölümünde doktorasını tamamlamıştır. Ayrıca İstanbul Bilgi Üniversitesi’nde MBA, Harvard Üniversitesi’nde ise Stratejik Yönetim programını tamamlamıştır. Kariyerine 1999 yılında Türkiye İş Bankası’nda yazılım uzmanı olarak başlayan Tahaoğlu, ödeme sistemleri ve internet bankacılığı projelerinde görev almıştır. Daha sonra Turkcell Global Bilgi’de bilgi güvenliği sorumlusu ve Turkcell'de iş geliştirme uzmanı olarak çalışmıştır. 2011 yılında Bankalararası Kart Merkezi’nde görev almaya başlamış; burada son olarak TROY Ürün ve Teknoloji Yönetiminden sorumlu Genel Müdür Yardımcısı ve Genel Müdür Danışmanı olarak önemli görevler üstlenmiştir. Haziran 2025 itibarıyla Valenspara Ödeme Kuruluşu Anonim Şirketi’nde Genel Müdür olarak görevine başlamıştır.
   
-  - name: Hasan GÖLPINAR
-    role: Risk ve Uyum Direktörü
-    image: /img/hasan-golpinar.jpg
-    bio: 2008 yılında Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi İktisat bölümünden mezun olmuş ve 2024 yılında Altınbaş Üniversitesi Yüksek Öğrenim Fakültesi Endüstri Mühendisliği Yüksek lisansını tamamlamıştır. Albaraka Türk Katılım Bankası'nda Denetçi Yardımcısı olarak çalışmaya başlamış ve altı senelik denetim tecrübesinin ardından yine Albaraka Türk Katılım Bankası şubelerinde Portföy Yöneticiliği yapmıştır. 2021 ve 2024 yılları arasında Albaraka Portföy Yönetimi A.Ş.'de İç Sistemlerden sorumlu müfettiş olarak kariyerine devam etmiştir. Valenspara Ödeme Kuruluşu A.Ş. bünyesinde Risk ve Uyum Direktörü olarak görev yapan Hasan Gölpınar iyi seviyede ingilizce bilmekte olup, evlidir.
- 
   - name: Ahmet Uygur KIRKEVLER
     role: İç Kontrol Direktörü
     image: /img/ahmet-uygur-kirkevler.jpg
