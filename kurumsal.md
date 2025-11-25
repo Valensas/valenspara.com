@@ -33,6 +33,11 @@ team:
     image: /img/ahmet-uygur-kirkevler.jpg
     bio: Şişli Terakki Lisesi ve İstanbul Üniversitesi İktisat Fakültesi’ni bitirdikten sonra bankacılık ve finans sektöründe Toprakbank A.Ş. Teftiş Kurulu Başkanlığı’nda müfettiş yardımcısı olarak çalışmaya başlamıştır. Bu bankada sırasıyla yetkili müfettiş yardımcılığı ve müfettişlik görevlerinde bulunmuş olup 2003 yılında Albaraka Türk Katılım Bankası A.Ş. İç Kontrol Başkanlığı bünyesinde denetçi olarak çalışmaya başlamış ve 2011 – 2018 yılları arasında İç Kontrol Başkan Yardımcısı olarak görev almıştır. Yaklaşık 20 yıl iç denetim ve iç kontrol alanlarında her seviyede görev yaptıktan sonra, 2018 – 2025 yılları arasında Albaraka Türk Katılım Bankası A.Ş.’de başta kişisel veriler mevzuatı olmak üzere, veri yönetimi, veri kalitesi, veri gizliliği ve veri analitiği alanlarında yöneticilik yapmıştır. Aynı dönemde bankanın Bilgi Paylaşım Komitesi Başkanlığı görevini sürdürmüştür. Bankacılık sektöründe 26 yıllık tecrübeye sahip olan Kırkevler, iç denetim, iç kontrol, yöneticilik, merkezden ve uzaktan ekip yönetimi, raporlama, analiz ve eğitim alanlarında uzmanlaşmıştır. Valenspara Ödeme Kuruluşu A.Ş. bünyesinde İç Kontrol Direktörü olarak görev yapan Kırkevler iki çocuk babası olup, İngilizce bilmektedir.
 
+  - name: Gözde EĞİLMEZ ERDEM
+    role: Risk ve Uyum Müdürü
+    image: /img/gozde-egilmez-erdem.jpg
+    bio: Valenspara Ödeme Kuruluşu A.Ş. bünyesinde Risk ve Uyum Müdürü olarak görev yapan Gözde Eğilmez Erdem, 2009 yılında İstanbul Aydın Üniversitesi Banka ve Sigorta bölümünden mezun olmuş, 2012 yılında Anadolu Üniversitesi İşletme bölümü lisans eğitimini tamamlamıştır. 2014 yılında Beykent Üniversitesi İşletme Yönetimi bölümünde yüksek lisans eğitimi almıştır. HSBC Bank AŞ’de müşteri hizmet yetkilisi ve ardından yönetici olarak çalışmaya başlamış ve sekiz senelik tecrübesinin ardından yine HSBC Bank A.Ş.’de mevzuat uyum biriminde 6 yıl görev almıştır. 2023 ve 2025 yılları arasında Vakıf Elektronik ve Ödeme Kuruluşu A.Ş. firmasında risk ve uyum müdür yardımcısı olarak kariyerine devam etmiştir. 2025 yılı Uyum Görevlisi Yetkilendirme Sınavına girerek, lisans sahibi olmuştur.
+
 reports_title_1: Faaliyet Raporları
 reports_1:
   - title: 2022 Faaliyet Raporu
