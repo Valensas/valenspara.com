@@ -1,7 +1,7 @@
 ---
 layout: terms
 title: Bireysel Kullanıcı ve Tüketici Bilgilendirme Formu
-permalink: /bireysel-kullanici-ve-tuketici-bilgilendirme-formu
+permalink: /bireysel-kullanici-ve-tuketici-bilgilendirme-formu/
 ---
 
 ##### BİREYSEL KULLANICI VE TÜKETİCİ BİLGİLENDİRME FORMU

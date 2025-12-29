@@ -1,7 +1,7 @@
 ---
 layout: terms
 title: Çerçeve Sözleşmesi
-permalink: /cerceve-sozlesmesi
+permalink: /cerceve-sozlesmesi/
 ---
 
 ### Çerçeve Ödeme Hizmeti Sözleşmesi  

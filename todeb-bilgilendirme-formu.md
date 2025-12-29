@@ -1,7 +1,7 @@
 ---
 layout: terms
 title: TÖDEB Bilgilendirme Formu
-permalink: /todeb-bilgilendirme-formu
+permalink: /todeb-bilgilendirme-formu/
 ---
 
 ##### TÖDEB HAKEM HEYETİ
