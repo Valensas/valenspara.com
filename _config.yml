@@ -35,12 +35,18 @@ footer_content_3: |+
   34467 Sarıyer/İstanbul
 footer_navigation_1_title: Güvenlik
 footer_navigation_1:
-    - text: Gizlilik Politikası
-      link: /privacy/
+    - text: Çerçeve Ödeme Hizmeti Sözleşmesi
+      link: /cerceve-sozlesmesi/
     - text: KVKK
       link: /kvkk/
+    - text: Gizlilik ve Güvenlik Politikası
+      link: /gizlilik-ve-guvenlik-politikasi/
     - text: Güvenlik
       link: /security/
+    - text: Bireysel Kullanıcı ve Tüketici Bilgilendirme Formu
+      link: /bireysel-kullanici-ve-tuketici-bilgilendirme-formu/
+    - text: TÖDEB Bilgilendirme Formu
+      link: /todeb-bilgilendirme-formu/
     - text: Yasal Uyarılar
       link: /legal/
 footer_navigation_2_title: Hakkında
