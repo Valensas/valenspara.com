@@ -25,7 +25,7 @@ permalink: /bireysel-kullanici-ve-tuketici-bilgilendirme-formu/
 
 * **Başvuru Esas ve Usulleri Hakkında Yönetmelik için** [tıklayınız](/files/Bireysel_Musteri_Hakem_Heyetine_Iliskin_Esas_ve_Usuller_Hakkinda_Yonetmelik_14_12_2022.pdf).
 * **Hakem Heyeti Bilgilendirme Metni için** [tıklayınız](/files/Ek1_Hakem_Heyeti_Bilgilendirme_Metni.pdf).
-* **Başvuru Süreci Broşürü için** [tıklayınız](/files/hakem_heyeti_brosur.pdf).
+* **Başvuru Süreci Broşürü için** [tıklayınız](/files/Yeni_Brosur_Tr.pdf).
     
 #### 2. HESAP GÜVENLİĞİ VE KULLANIM TAVSİYELERİ
 

@@ -5,7 +5,7 @@ permalink: /kvkk/
 ---
 
 
-##### VALENSPARA ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÜYE İŞYERİ İÇİN KVK AYDINLATMA METNİ
+##### VALENSPARA ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÜYE İŞYERİ İÇİN KVKK AYDINLATMA METNİ
 
 Sayın Üye İşyeri Temsilcisi, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve bağlı mevzuat çerçevesinde, aşağıdaki hususlarda tarafınızın aydınlatılması yükümlülüğümüz bulunmaktadır. Konuya ilişkin haklarınızı tam olarak anlayabilmek ve kullanabilmek için aşağıdaki bilgileri dikkatlice okumanızı tavsiye ederiz. 
 
@@ -85,9 +85,9 @@ Başvurularınız için iletişim adresleri aşağıdaki şekildedir.
 
 **ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B 34467 Sarıyer İSTANBUL
 
-**KVK E-POSTA ADRESİ :** iletisim@valenspara.com
+**KVKK E-POSTA ADRESİ :** iletisim@valenspara.com
 
-##### VALENSPARA ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÖNERİ VE İTİRAZ FORMU İÇİN KVK AYDINLATMA METNİ
+##### VALENSPARA ÖDEME KURULUŞU A.Ş. SANAL POS HİZMETİ ÖNERİ VE İTİRAZ FORMU İÇİN KVKK AYDINLATMA METNİ
 
 Sayın Başvurucu, 6698 sayılı Kişisel Verilerin Korunması Kanunu ve bağlı mevzuat çerçevesinde, aşağıdaki hususlarda tarafınızın aydınlatılması yükümlülüğümüz bulunmaktadır. Konuya ilişkin haklarınızı tam olarak anlayabilmek ve kullanabilmek için aşağıdaki bilgileri dikkatlice okumanızı tavsiye ederiz. 
 
@@ -158,4 +158,4 @@ Başvurularınız için iletişim adresleri aşağıdaki şekildedir.
 
 **ŞİRKET ADRESİ :** Reşitpaşa Mah. Katar Cad. Arı Teknokent 3 Binası No: 4 İç Kapı No: 402/B 34467 Sarıyer İSTANBUL
 
-**KVK E-POSTA ADRESİ :** iletisim@valenspara.com
+**KVKK E-POSTA ADRESİ :** iletisim@valenspara.com

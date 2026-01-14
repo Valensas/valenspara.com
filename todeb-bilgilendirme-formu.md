@@ -26,4 +26,4 @@ TÖDEB Bireysel Müşteri Hakem Heyeti’ne başvuru ile ilgili tüm detaylı bi
 
 1. **[EK1: Bilgilendirme metni](/files/Ek1_Hakem_Heyeti_Bilgilendirme_Metni.pdf)**
 2. **[EK2: Bireysel müşteri hakem heyeti yönetmeliği](/files/Bireysel_Musteri_Hakem_Heyetine_Iliskin_Esas_ve_Usuller_Hakkinda_Yonetmelik_14_12_2022.pdf)**
-3. **[EK3: Hakem heyeti broşürü](/files/hakem_heyeti_brosur.pdf)**
+3. **[EK3: Hakem heyeti broşürü](/files/Yeni_Brosur_Tr.pdf)**
