@@ -9,7 +9,7 @@ hero_slider:
     - title: Kolay İptal ve İade
       background: background-2.jpg       
       content: İptal ve iadelerinizi 7/24 yapabilirisiniz.
-    - title: Uygun Komisyon Garantisi
+    - title: İlave Maliyet Yok
       background: background-3.jpg    
       content: Ödeyeceğiniz komisyona BSMV ve operasyon giderleri dahildir. Sizden ek bir ödeme talep edilmez.    
     - title: Pratik Kurulum
@@ -35,7 +35,7 @@ creative_features:
       description: İptal ve iadelerinizi 7/24 yapabilirsiniz.
       icon: feature_icon_wand.png
 
-    - title: Uygun Komisyon Garantisi
+    - title: İlave Maliyet Yok
       description: Komisyon BSMV ve operasyon giderlerini kapsamaktadır, örtülü olarak ek bir ücretlendirme ile karşılaşmazsınız. Ayrıca kurulum ücreti yok.
       icon: feature_icon_rocket.png
 
