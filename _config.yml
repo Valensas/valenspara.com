@@ -71,6 +71,7 @@ collections:
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 
 include: [".well-known"]

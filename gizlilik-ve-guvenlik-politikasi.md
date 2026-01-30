@@ -2,6 +2,8 @@
 layout: terms
 title: Valenspara Gizlilik ve Güvenlik Politikası  
 permalink: /gizlilik-ve-guvenlik-politikasi/
+redirect_from:
+  - /privacy/
 ---
 
 
