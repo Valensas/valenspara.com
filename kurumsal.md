@@ -46,6 +46,8 @@ reports_1:
     file: /files/VALENSPARA_2023_YILLIK_FAALIYET_RAPORU.pdf
   - title: 2024 Faaliyet Raporu
     file: /files/VALENSPARA_2024_YILLIK_FAALIYET_RAPORU.pdf
+  - title: 2025 Faaliyet Raporu
+    file: /files/VALENSPARA_2025_YILLIK_FAALIYET_RAPORU.pdf
 
 reports_title_2: Bağımsız Denetim Raporları
 reports_2:
@@ -55,6 +57,8 @@ reports_2:
     file: /files/VALENSPARA_2023_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
   - title: 2024 Bağımsız Denetim Raporu
     file: /files/VALENSPARA_2024_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
+  - title: 2025 Bağımsız Denetim Raporu
+    file: /files/VALENSPARA_2025_FINANSAL_TABLOLAR_VE_BAGIMSIZ_DENETCI_RAPORU.pdf
 
 company_info:
   pay_sahibi:
