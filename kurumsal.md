@@ -70,7 +70,7 @@ company_info:
     - "Ticaret Unvanı: Valenspara Ödeme Kuruluşu A.Ş."
     - "Mersis Numarası: 0482117916700001"
     - "Ticaret Sicil No: 282174-5"
-    - "Telefon Numarası: +90 212 285 0122"
+    - "Telefon Numarası: +90 850 477 19 84"
     - "Adres: İstanbul Teknik Üniversitesi ARI Teknokent 3 Binası Katar Caddesi No:4 İç kapı No: B402 34467 Sarıyer/İstanbul"
     - "Elektronik Posta Adresi: info@valenspara.com"
     - "KEP Adresi: valenspara@hs01.kep.tr"
