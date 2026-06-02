@@ -20,7 +20,7 @@ Valenspara ve Üye İşyeri ayrı ayrı **“Taraf”** ve birlikte **“Tarafla
 **Valenspara İletişim Bilgileri:**
 
 * **Adres:** Reşitpaşa Mahallesi Katar Caddesi İTÜ Arı Teknokent 3 Binası No:4 B402 Sarıyer İstanbul
-* **Telefon Numarası:** +90 (212) 285 01 22
+* **Telefon Numarası:** +90 850 477 19 84
 * **İnternet Sitesi:** [www.valenspara.com](https://www.valenspara.com)
 * **E-Posta Adresi:** [info@valenspara.com](mailto:info@valenspara.com)
 
@@ -91,7 +91,7 @@ Valenspara, bir Ödeme Aracı'nın hileli veya yetkisiz kullanımı şüphesini 
 
 #### 6. Şikâyetlerin Bildirilmesi Ve Çözümü
 
-Üye İşyeri Valenspara tarafından sağlanan hizmetlere ilişkin şikâyetlerini ad-soyad bilgisi ve Valenspara Hesabı'na ait Üye İşyeri numarası ile aşağıda belirtilen şekilde Valenspara'ya başvurabilir. Sözleşme'nin kapsamına giren konulara ilişkin tüm şikâyet ve itirazları Valenspara'nın +90 (212) 285 01 22 numaralı Çağrı Merkezi'ne ulaşarak veya [info@valenspara.com](mailto:info@valenspara.com) adresine e-posta yolu ile iletebilecektir.
+Üye İşyeri Valenspara tarafından sağlanan hizmetlere ilişkin şikâyetlerini ad-soyad bilgisi ve Valenspara Hesabı'na ait Üye İşyeri numarası ile aşağıda belirtilen şekilde Valenspara'ya başvurabilir. Sözleşme'nin kapsamına giren konulara ilişkin tüm şikâyet ve itirazları Valenspara'nın +90 850 477 19 84 numaralı Çağrı Merkezi'ne ulaşarak veya [info@valenspara.com](mailto:info@valenspara.com) adresine e-posta yolu ile iletebilecektir.
 
 Üye İşyerleri, Valenspara’nın sunduğu hizmetlerden kaynaklı olarak Üye İşyeri'nin yaşadığı, bireysel nitelik taşıyan, dolayısıyla ticari faaliyet kapsamına girmeyen ihtilaf konularında Valenspara'ya, uyuşmazlığa konu işlem veya eylemin gerçekleştiği tarihten itibaren en geç 2 (iki) yıl içerisinde yazılı başvuru gerçekleştirebilirler. Başvurular, başvuru tarihinden itibaren 20 (yirmi) gün içerisinde; yanıtlanmamışsa yanıt verilmesi gereken 20 (yirmi) günlük sürenin bitiminden itibaren, Üye İşyeri'nin başvurusu olumsuz yanıtlanmış veya verilen yanıt Üye İşyeri tarafından yeterli bulunmaz ise, Üye İşyeri'nin yanıt tarihinden itibaren 60 (altmış) gün içerisinde Türkiye Ödeme ve Elektronik Para Kuruluşları Birliği ("TÖDEB") Bireysel Müşteri Hakem Heyetine İlişkin Esas ve Usulleri Hakkında Yönetmelik uyarınca konuyla ilgili TÖDEB Bireysel Müşteri Hakem Heyeti'ne [https://todeb.org.tr/hakemheyetibasvuruformu/](https://todeb.org.tr/hakemheyetibasvuruformu/) internet sitesi başvurma hakkı bulunmaktadır. Ayrıca Üye İşyerleri'nin Valenspara tarafından sağlanan hizmetlere ilişkin şikayetleri yönünden İl/İlçe Tüketici Hakem Heyetleri'ne başvuru hakkı saklıdır.
 

@@ -7,7 +7,7 @@ location: Arı Teknokent 3
 
 contact:
     - title: Merkez Ofis
-      phone: +90 (212) 285 01 22
+      phone: +90 850 477 19 84
       mail: info@valenspara.com
       address:
        - line: Reşitpaşa Mah. Katar Cad.

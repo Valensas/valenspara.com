@@ -13,7 +13,7 @@ permalink: /bireysel-kullanici-ve-tuketici-bilgilendirme-formu/
 **1.1. İletişim Kanalları:** Valenspara olarak sunduğumuz hizmetlere dair her türlü görüş, öneri, itiraz veya şikâyetinizi bize aşağıdaki kanallar üzerinden iletebilirsiniz:
 
 * **E-Posta:** [info@valenspara.com](mailto:info@valenspara.com)
-* **Çağrı Merkezi:** +90 (212) 285 01 22 (Hizmet saatleri: Hafta içi 09:00 – 18:00)
+* **Çağrı Merkezi:** +90 850 477 19 84 (Hizmet saatleri: Hafta içi 09:00 – 18:00)
 * **Kayıtlı Elektronik Posta:** [valenspara@hs01.kep.tr](mailto:valenspara@hs01.kep.tr)
 * **Fiziksel Posta:** Şirket merkez adresimize noter kanalıyla veya iadeli taahhütlü posta yoluyla.
 
@@ -37,7 +37,7 @@ Dijital finansal güvenliğinizi en üst seviyede tutmak adına, Valenspara güv
 * **Mobil Bildirimler ve SMS:** Telefonunuza gelen doğrulama SMS’lerini veya mobil uygulama onay bildirimlerini (push notification) işlemin içeriğini kontrol etmeden onaylamayınız ve kodları üçüncü şahıslarla paylaşmayınız.
 * **Phishing (Oltalama) Saldırıları:** E-posta veya SMS yoluyla gelen, kaynağı belirsiz linklere tıklamayınız. Valenspara web sitesine erişim sağlarken tarayıcınızın adres çubuğunda yazan adresi mutlaka kontrol ediniz.
 * **Resmi Sosyal Medya Hesapları:** Sosyal medyada Valenspara ismini ve logosunu taklit eden sahte hesaplara karşı dikkatli olunuz. Güncel ve resmi sosyal medya hesaplarımıza yalnızca [Valenspara.com](https://www.valenspara.com) üzerindeki bağlantılardan erişim sağlayınız.
-* **Kayıp/Çalıntı Bildirimi:** Telefonunuzun kaybolması, çalınması veya hesabınızda bilginiz dışı şüpheli bir işlem fark etmeniz durumunda, vakit kaybetmeden **+90 (212) 285 01 22** üzerinden çağrı merkezimizi arayarak hesabınıza erişimi durdurunuz.
+* **Kayıp/Çalıntı Bildirimi:** Telefonunuzun kaybolması, çalınması veya hesabınızda bilginiz dışı şüpheli bir işlem fark etmeniz durumunda, vakit kaybetmeden **+90 850 477 19 84** üzerinden çağrı merkezimizi arayarak hesabınıza erişimi durdurunuz.
 
 #### 3. MALİ ŞARTLAR VE ÜCRETLENDİRME
 
