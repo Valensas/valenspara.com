@@ -52,3 +52,13 @@ Yasal gerekler nedeniyle, aşağıda yer alan ürün ve/veya hizmetlerin satış
 - Politik görüşlere yönelik mal ve hizmetler,
 - FOREX ve benzeri faaliyetlere yönelik mal ve hizmetler,
 - Tütün mamulleri.
+
+<iframe
+  src="https://merchant.valenspara.com/basvuru"
+  width="100%"
+  height="900"
+  frameborder="0"
+  scrolling="no"
+  style="border: none; overflow: hidden;"
+  title="Başvuru Formu"
+></iframe>
